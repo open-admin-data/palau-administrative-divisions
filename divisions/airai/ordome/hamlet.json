@@ -1,0 +1,45 @@
+{
+  "id": "PW_airai_ordome",
+  "level": 2,
+  "level_name": {
+    "local": "Hamlet",
+    "en": "Hamlet"
+  },
+  "name": {
+    "local": "Ordome",
+    "en": "Ordome",
+    "slug": "ordome"
+  },
+  "code": {
+    "id": "PW_airai_ordome",
+    "iso": null
+  },
+  "parent": {
+    "id": "PW_airai",
+    "level": 1,
+    "name": {
+      "local": "Airai",
+      "en": "Airai",
+      "slug": "airai"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "PW_airai",
+      "level": 1,
+      "name": {
+        "local": "Airai",
+        "en": "Airai",
+        "slug": "airai"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "7.371",
+    "lon": "134.556"
+  },
+  "metadata": {},
+  "source": {}
+}

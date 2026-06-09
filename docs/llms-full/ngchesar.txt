@@ -1,0 +1,29 @@
+# Ngchesar — Palau Administrative Divisions
+
+> 4 hamlets
+> Code: PW_ngchesar
+> Coordinates: 7.458, 134.588
+> Last updated: 2026-06-09. License: CC-BY-4.0.
+
+## Hamlets
+
+### Ngerkesou
+
+Code: PW_ngchesar_ngerkesou, Coordinates: 7.464, 134.582
+
+
+### Ngerngesang
+
+Code: PW_ngchesar_ngerngesang, Coordinates: 7.453, 134.585
+
+
+### Ngersuul
+
+Code: PW_ngchesar_ngersuul, Coordinates: 7.428, 134.581
+
+
+### Ngeruikl
+
+Code: PW_ngchesar_ngeruikl, Coordinates: 7.484, 134.611
+
+

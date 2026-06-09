@@ -1,0 +1,18 @@
+# Data from Open Admin Data (https://openadmindata.org/pw/) — CC-BY-4.0. Please cite: https://github.com/open-admin-data/palau-administrative-divisions
+id,level,level_name.local,level_name.en,name.local,name.en,name.slug,code.id,code.iso,parent.id,parent.name.local,parent.name.en,children_count.state,children_count.hamlet,zip_codes,geo.lat,geo.lon,source_url
+PW_aimeliik,1,State,State,Aimeliik,Aimeliik,aimeliik,PW_aimeliik,,,,,,6,,7.438,134.501,https://openadmindata.org/pw/states/aimeliik/
+PW_airai,1,State,State,Airai,Airai,airai,PW_airai,,,,,,6,,7.374,134.549,https://openadmindata.org/pw/states/airai/
+PW_angaur,1,State,State,Angaur,Angaur,angaur,PW_angaur,,,,,,4,,6.906,134.138,https://openadmindata.org/pw/states/angaur/
+PW_hatohobei,1,State,State,Hatohobei,Hatohobei,hatohobei,PW_hatohobei,,,,,,1,,2.908,131.482,https://openadmindata.org/pw/states/hatohobei/
+PW_kayangel,1,State,State,Kayangel,Kayangel,kayangel,PW_kayangel,,,,,,2,,8.082,134.717,https://openadmindata.org/pw/states/kayangel/
+PW_koror,1,State,State,Koror,Koror,koror,PW_koror,,,,,,13,,7.249,134.427,https://openadmindata.org/pw/states/koror/
+PW_melekeok,1,State,State,Melekeok,Melekeok,melekeok,PW_melekeok,,,,,,8,,7.512,134.605,https://openadmindata.org/pw/states/melekeok/
+PW_ngaraard,1,State,State,Ngaraard,Ngaraard,ngaraard,PW_ngaraard,,,,,,5,,7.629,134.621,https://openadmindata.org/pw/states/ngaraard/
+PW_ngarchelong,1,State,State,Ngarchelong,Ngarchelong,ngarchelong,PW_ngarchelong,,,,,,8,,7.708,134.627,https://openadmindata.org/pw/states/ngarchelong/
+PW_ngardmau,1,State,State,Ngardmau,Ngardmau,ngardmau,PW_ngardmau,,,,,,3,,7.591,134.568,https://openadmindata.org/pw/states/ngardmau/
+PW_ngatpang,1,State,State,Ngatpang,Ngatpang,ngatpang,PW_ngatpang,,,,,,0,,7.459,134.521,https://openadmindata.org/pw/states/ngatpang/
+PW_ngchesar,1,State,State,Ngchesar,Ngchesar,ngchesar,PW_ngchesar,,,,,,4,,7.458,134.588,https://openadmindata.org/pw/states/ngchesar/
+PW_ngeremlengui,1,State,State,Ngeremlengui,Ngeremlengui,ngeremlengui,PW_ngeremlengui,,,,,,8,,7.52,134.548,https://openadmindata.org/pw/states/ngeremlengui/
+PW_ngiwal,1,State,State,Ngiwal,Ngiwal,ngiwal,PW_ngiwal,,,,,,3,,7.557,134.617,https://openadmindata.org/pw/states/ngiwal/
+PW_peleliu,1,State,State,Peleliu,Peleliu,peleliu,PW_peleliu,,,,,,5,,7.036,134.253,https://openadmindata.org/pw/states/peleliu/
+PW_sonsorol,1,State,State,Sonsorol,Sonsorol,sonsorol,PW_sonsorol,,,,,,1,,5.326,132.223,https://openadmindata.org/pw/states/sonsorol/

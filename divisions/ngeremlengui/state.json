@@ -1,0 +1,33 @@
+{
+  "id": "PW_ngeremlengui",
+  "level": 1,
+  "level_name": {
+    "local": "State",
+    "en": "State"
+  },
+  "name": {
+    "local": "Ngeremlengui",
+    "en": "Ngeremlengui",
+    "slug": "ngeremlengui"
+  },
+  "code": {
+    "id": "PW_ngeremlengui",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "hamlet": 8
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "7.52",
+    "lon": "134.548"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/pw/states/ngeremlengui/",
+    "api": "https://openadmindata.org/api/pw/"
+  }
+}

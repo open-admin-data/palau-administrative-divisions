@@ -1,0 +1,45 @@
+{
+  "id": "PW_angaur_ngebeianged",
+  "level": 2,
+  "level_name": {
+    "local": "Hamlet",
+    "en": "Hamlet"
+  },
+  "name": {
+    "local": "Ngebeianged",
+    "en": "Ngebeianged",
+    "slug": "ngebeianged"
+  },
+  "code": {
+    "id": "PW_angaur_ngebeianged",
+    "iso": null
+  },
+  "parent": {
+    "id": "PW_angaur",
+    "level": 1,
+    "name": {
+      "local": "Angaur",
+      "en": "Angaur",
+      "slug": "angaur"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "PW_angaur",
+      "level": 1,
+      "name": {
+        "local": "Angaur",
+        "en": "Angaur",
+        "slug": "angaur"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "6.918",
+    "lon": "134.134"
+  },
+  "metadata": {},
+  "source": {}
+}

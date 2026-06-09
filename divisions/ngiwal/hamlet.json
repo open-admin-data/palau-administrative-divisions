@@ -1,0 +1,137 @@
+[
+  {
+    "id": "PW_ngiwal_ngellau",
+    "level": 2,
+    "level_name": {
+      "local": "Hamlet",
+      "en": "Hamlet"
+    },
+    "name": {
+      "local": "Ngellau",
+      "en": "Ngellau",
+      "slug": "ngellau"
+    },
+    "code": {
+      "id": "PW_ngiwal_ngellau",
+      "iso": null
+    },
+    "parent": {
+      "id": "PW_ngiwal",
+      "level": 1,
+      "name": {
+        "local": "Ngiwal",
+        "en": "Ngiwal",
+        "slug": "ngiwal"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PW_ngiwal",
+        "level": 1,
+        "name": {
+          "local": "Ngiwal",
+          "en": "Ngiwal",
+          "slug": "ngiwal"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.567",
+      "lon": "134.618"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PW_ngiwal_ngercheluuk",
+    "level": 2,
+    "level_name": {
+      "local": "Hamlet",
+      "en": "Hamlet"
+    },
+    "name": {
+      "local": "Ngercheluuk",
+      "en": "Ngercheluuk",
+      "slug": "ngercheluuk"
+    },
+    "code": {
+      "id": "PW_ngiwal_ngercheluuk",
+      "iso": null
+    },
+    "parent": {
+      "id": "PW_ngiwal",
+      "level": 1,
+      "name": {
+        "local": "Ngiwal",
+        "en": "Ngiwal",
+        "slug": "ngiwal"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PW_ngiwal",
+        "level": 1,
+        "name": {
+          "local": "Ngiwal",
+          "en": "Ngiwal",
+          "slug": "ngiwal"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.558",
+      "lon": "134.617"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PW_ngiwal_ngersngai",
+    "level": 2,
+    "level_name": {
+      "local": "Hamlet",
+      "en": "Hamlet"
+    },
+    "name": {
+      "local": "Ngersngai",
+      "en": "Ngersngai",
+      "slug": "ngersngai"
+    },
+    "code": {
+      "id": "PW_ngiwal_ngersngai",
+      "iso": null
+    },
+    "parent": {
+      "id": "PW_ngiwal",
+      "level": 1,
+      "name": {
+        "local": "Ngiwal",
+        "en": "Ngiwal",
+        "slug": "ngiwal"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PW_ngiwal",
+        "level": 1,
+        "name": {
+          "local": "Ngiwal",
+          "en": "Ngiwal",
+          "slug": "ngiwal"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.553",
+      "lon": "134.618"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

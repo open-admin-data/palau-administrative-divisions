@@ -1,0 +1,24 @@
+# Ngiwal — Palau Administrative Divisions
+
+> 3 hamlets
+> Code: PW_ngiwal
+> Coordinates: 7.557, 134.617
+> Last updated: 2026-06-09. License: CC-BY-4.0.
+
+## Hamlets
+
+### Ngellau
+
+Code: PW_ngiwal_ngellau, Coordinates: 7.567, 134.618
+
+
+### Ngercheluuk
+
+Code: PW_ngiwal_ngercheluuk, Coordinates: 7.558, 134.617
+
+
+### Ngersngai
+
+Code: PW_ngiwal_ngersngai, Coordinates: 7.553, 134.618
+
+

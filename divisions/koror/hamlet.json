@@ -1,0 +1,587 @@
+[
+  {
+    "id": "PW_koror_dngronger",
+    "level": 2,
+    "level_name": {
+      "local": "Hamlet",
+      "en": "Hamlet"
+    },
+    "name": {
+      "local": "Dngronger",
+      "en": "Dngronger",
+      "slug": "dngronger"
+    },
+    "code": {
+      "id": "PW_koror_dngronger",
+      "iso": null
+    },
+    "parent": {
+      "id": "PW_koror",
+      "level": 1,
+      "name": {
+        "local": "Koror",
+        "en": "Koror",
+        "slug": "koror"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PW_koror",
+        "level": 1,
+        "name": {
+          "local": "Koror",
+          "en": "Koror",
+          "slug": "koror"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.344",
+      "lon": "134.479"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PW_koror_idid-03",
+    "level": 2,
+    "level_name": {
+      "local": "Hamlet",
+      "en": "Hamlet"
+    },
+    "name": {
+      "local": "Idid 03",
+      "en": "Idid 03",
+      "slug": "idid-03"
+    },
+    "code": {
+      "id": "PW_koror_idid-03",
+      "iso": null
+    },
+    "parent": {
+      "id": "PW_koror",
+      "level": 1,
+      "name": {
+        "local": "Koror",
+        "en": "Koror",
+        "slug": "koror"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PW_koror",
+        "level": 1,
+        "name": {
+          "local": "Koror",
+          "en": "Koror",
+          "slug": "koror"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.343",
+      "lon": "134.485"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PW_koror_ikelau",
+    "level": 2,
+    "level_name": {
+      "local": "Hamlet",
+      "en": "Hamlet"
+    },
+    "name": {
+      "local": "Ikelau",
+      "en": "Ikelau",
+      "slug": "ikelau"
+    },
+    "code": {
+      "id": "PW_koror_ikelau",
+      "iso": null
+    },
+    "parent": {
+      "id": "PW_koror",
+      "level": 1,
+      "name": {
+        "local": "Koror",
+        "en": "Koror",
+        "slug": "koror"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PW_koror",
+        "level": 1,
+        "name": {
+          "local": "Koror",
+          "en": "Koror",
+          "slug": "koror"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.339",
+      "lon": "134.48"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PW_koror_iyebukel",
+    "level": 2,
+    "level_name": {
+      "local": "Hamlet",
+      "en": "Hamlet"
+    },
+    "name": {
+      "local": "Iyebukel",
+      "en": "Iyebukel",
+      "slug": "iyebukel"
+    },
+    "code": {
+      "id": "PW_koror_iyebukel",
+      "iso": null
+    },
+    "parent": {
+      "id": "PW_koror",
+      "level": 1,
+      "name": {
+        "local": "Koror",
+        "en": "Koror",
+        "slug": "koror"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PW_koror",
+        "level": 1,
+        "name": {
+          "local": "Koror",
+          "en": "Koror",
+          "slug": "koror"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.349",
+      "lon": "134.485"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PW_koror_medalaii",
+    "level": 2,
+    "level_name": {
+      "local": "Hamlet",
+      "en": "Hamlet"
+    },
+    "name": {
+      "local": "Medalaii",
+      "en": "Medalaii",
+      "slug": "medalaii"
+    },
+    "code": {
+      "id": "PW_koror_medalaii",
+      "iso": null
+    },
+    "parent": {
+      "id": "PW_koror",
+      "level": 1,
+      "name": {
+        "local": "Koror",
+        "en": "Koror",
+        "slug": "koror"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PW_koror",
+        "level": 1,
+        "name": {
+          "local": "Koror",
+          "en": "Koror",
+          "slug": "koror"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.336",
+      "lon": "134.463"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PW_koror_meketii",
+    "level": 2,
+    "level_name": {
+      "local": "Hamlet",
+      "en": "Hamlet"
+    },
+    "name": {
+      "local": "Meketii",
+      "en": "Meketii",
+      "slug": "meketii"
+    },
+    "code": {
+      "id": "PW_koror_meketii",
+      "iso": null
+    },
+    "parent": {
+      "id": "PW_koror",
+      "level": 1,
+      "name": {
+        "local": "Koror",
+        "en": "Koror",
+        "slug": "koror"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PW_koror",
+        "level": 1,
+        "name": {
+          "local": "Koror",
+          "en": "Koror",
+          "slug": "koror"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.348",
+      "lon": "134.481"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PW_koror_meyuns",
+    "level": 2,
+    "level_name": {
+      "local": "Hamlet",
+      "en": "Hamlet"
+    },
+    "name": {
+      "local": "Meyuns",
+      "en": "Meyuns",
+      "slug": "meyuns"
+    },
+    "code": {
+      "id": "PW_koror_meyuns",
+      "iso": null
+    },
+    "parent": {
+      "id": "PW_koror",
+      "level": 1,
+      "name": {
+        "local": "Koror",
+        "en": "Koror",
+        "slug": "koror"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PW_koror",
+        "level": 1,
+        "name": {
+          "local": "Koror",
+          "en": "Koror",
+          "slug": "koror"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.354",
+      "lon": "134.458"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PW_koror_ngerbeched",
+    "level": 2,
+    "level_name": {
+      "local": "Hamlet",
+      "en": "Hamlet"
+    },
+    "name": {
+      "local": "Ngerbeched",
+      "en": "Ngerbeched",
+      "slug": "ngerbeched"
+    },
+    "code": {
+      "id": "PW_koror_ngerbeched",
+      "iso": null
+    },
+    "parent": {
+      "id": "PW_koror",
+      "level": 1,
+      "name": {
+        "local": "Koror",
+        "en": "Koror",
+        "slug": "koror"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PW_koror",
+        "level": 1,
+        "name": {
+          "local": "Koror",
+          "en": "Koror",
+          "slug": "koror"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.335",
+      "lon": "134.475"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PW_koror_ngerchemai",
+    "level": 2,
+    "level_name": {
+      "local": "Hamlet",
+      "en": "Hamlet"
+    },
+    "name": {
+      "local": "Ngerchemai",
+      "en": "Ngerchemai",
+      "slug": "ngerchemai"
+    },
+    "code": {
+      "id": "PW_koror_ngerchemai",
+      "iso": null
+    },
+    "parent": {
+      "id": "PW_koror",
+      "level": 1,
+      "name": {
+        "local": "Koror",
+        "en": "Koror",
+        "slug": "koror"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PW_koror",
+        "level": 1,
+        "name": {
+          "local": "Koror",
+          "en": "Koror",
+          "slug": "koror"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.348",
+      "lon": "134.491"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PW_koror_ngerkebesang",
+    "level": 2,
+    "level_name": {
+      "local": "Hamlet",
+      "en": "Hamlet"
+    },
+    "name": {
+      "local": "Ngerkebesang",
+      "en": "Ngerkebesang",
+      "slug": "ngerkebesang"
+    },
+    "code": {
+      "id": "PW_koror_ngerkebesang",
+      "iso": null
+    },
+    "parent": {
+      "id": "PW_koror",
+      "level": 1,
+      "name": {
+        "local": "Koror",
+        "en": "Koror",
+        "slug": "koror"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PW_koror",
+        "level": 1,
+        "name": {
+          "local": "Koror",
+          "en": "Koror",
+          "slug": "koror"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.354",
+      "lon": "134.446"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PW_koror_ngerkesowaol",
+    "level": 2,
+    "level_name": {
+      "local": "Hamlet",
+      "en": "Hamlet"
+    },
+    "name": {
+      "local": "Ngerkesowaol",
+      "en": "Ngerkesowaol",
+      "slug": "ngerkesowaol"
+    },
+    "code": {
+      "id": "PW_koror_ngerkesowaol",
+      "iso": null
+    },
+    "parent": {
+      "id": "PW_koror",
+      "level": 1,
+      "name": {
+        "local": "Koror",
+        "en": "Koror",
+        "slug": "koror"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PW_koror",
+        "level": 1,
+        "name": {
+          "local": "Koror",
+          "en": "Koror",
+          "slug": "koror"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.341",
+      "lon": "134.493"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PW_koror_ngermid",
+    "level": 2,
+    "level_name": {
+      "local": "Hamlet",
+      "en": "Hamlet"
+    },
+    "name": {
+      "local": "Ngermid",
+      "en": "Ngermid",
+      "slug": "ngermid"
+    },
+    "code": {
+      "id": "PW_koror_ngermid",
+      "iso": null
+    },
+    "parent": {
+      "id": "PW_koror",
+      "level": 1,
+      "name": {
+        "local": "Koror",
+        "en": "Koror",
+        "slug": "koror"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PW_koror",
+        "level": 1,
+        "name": {
+          "local": "Koror",
+          "en": "Koror",
+          "slug": "koror"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.348",
+      "lon": "134.501"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PW_koror_rock-islands",
+    "level": 2,
+    "level_name": {
+      "local": "Hamlet",
+      "en": "Hamlet"
+    },
+    "name": {
+      "local": "Rock Islands",
+      "en": "Rock Islands",
+      "slug": "rock-islands"
+    },
+    "code": {
+      "id": "PW_koror_rock-islands",
+      "iso": null
+    },
+    "parent": {
+      "id": "PW_koror",
+      "level": 1,
+      "name": {
+        "local": "Koror",
+        "en": "Koror",
+        "slug": "koror"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PW_koror",
+        "level": 1,
+        "name": {
+          "local": "Koror",
+          "en": "Koror",
+          "slug": "koror"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.235",
+      "lon": "134.373"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

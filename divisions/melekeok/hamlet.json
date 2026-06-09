@@ -1,0 +1,362 @@
+[
+  {
+    "id": "PW_melekeok_melekeok",
+    "level": 2,
+    "level_name": {
+      "local": "Hamlet",
+      "en": "Hamlet"
+    },
+    "name": {
+      "local": "Melekeok",
+      "en": "Melekeok",
+      "slug": "melekeok"
+    },
+    "code": {
+      "id": "PW_melekeok_melekeok",
+      "iso": null
+    },
+    "parent": {
+      "id": "PW_melekeok",
+      "level": 1,
+      "name": {
+        "local": "Melekeok",
+        "en": "Melekeok",
+        "slug": "melekeok"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PW_melekeok",
+        "level": 1,
+        "name": {
+          "local": "Melekeok",
+          "en": "Melekeok",
+          "slug": "melekeok"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.509",
+      "lon": "134.599"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PW_melekeok_negerubesang",
+    "level": 2,
+    "level_name": {
+      "local": "Hamlet",
+      "en": "Hamlet"
+    },
+    "name": {
+      "local": "Negerubesang",
+      "en": "Negerubesang",
+      "slug": "negerubesang"
+    },
+    "code": {
+      "id": "PW_melekeok_negerubesang",
+      "iso": null
+    },
+    "parent": {
+      "id": "PW_melekeok",
+      "level": 1,
+      "name": {
+        "local": "Melekeok",
+        "en": "Melekeok",
+        "slug": "melekeok"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PW_melekeok",
+        "level": 1,
+        "name": {
+          "local": "Melekeok",
+          "en": "Melekeok",
+          "slug": "melekeok"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.491",
+      "lon": "134.622"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PW_melekeok_ngeburch",
+    "level": 2,
+    "level_name": {
+      "local": "Hamlet",
+      "en": "Hamlet"
+    },
+    "name": {
+      "local": "Ngeburch",
+      "en": "Ngeburch",
+      "slug": "ngeburch"
+    },
+    "code": {
+      "id": "PW_melekeok_ngeburch",
+      "iso": null
+    },
+    "parent": {
+      "id": "PW_melekeok",
+      "level": 1,
+      "name": {
+        "local": "Melekeok",
+        "en": "Melekeok",
+        "slug": "melekeok"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PW_melekeok",
+        "level": 1,
+        "name": {
+          "local": "Melekeok",
+          "en": "Melekeok",
+          "slug": "melekeok"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.51",
+      "lon": "134.625"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PW_melekeok_ngerang",
+    "level": 2,
+    "level_name": {
+      "local": "Hamlet",
+      "en": "Hamlet"
+    },
+    "name": {
+      "local": "Ngerang",
+      "en": "Ngerang",
+      "slug": "ngerang"
+    },
+    "code": {
+      "id": "PW_melekeok_ngerang",
+      "iso": null
+    },
+    "parent": {
+      "id": "PW_melekeok",
+      "level": 1,
+      "name": {
+        "local": "Melekeok",
+        "en": "Melekeok",
+        "slug": "melekeok"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PW_melekeok",
+        "level": 1,
+        "name": {
+          "local": "Melekeok",
+          "en": "Melekeok",
+          "slug": "melekeok"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.497",
+      "lon": "134.635"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PW_melekeok_ngermechau",
+    "level": 2,
+    "level_name": {
+      "local": "Hamlet",
+      "en": "Hamlet"
+    },
+    "name": {
+      "local": "Ngermechau",
+      "en": "Ngermechau",
+      "slug": "ngermechau"
+    },
+    "code": {
+      "id": "PW_melekeok_ngermechau",
+      "iso": null
+    },
+    "parent": {
+      "id": "PW_melekeok",
+      "level": 1,
+      "name": {
+        "local": "Melekeok",
+        "en": "Melekeok",
+        "slug": "melekeok"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PW_melekeok",
+        "level": 1,
+        "name": {
+          "local": "Melekeok",
+          "en": "Melekeok",
+          "slug": "melekeok"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.54",
+      "lon": "134.617"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PW_melekeok_ngermelech",
+    "level": 2,
+    "level_name": {
+      "local": "Hamlet",
+      "en": "Hamlet"
+    },
+    "name": {
+      "local": "Ngermelech",
+      "en": "Ngermelech",
+      "slug": "ngermelech"
+    },
+    "code": {
+      "id": "PW_melekeok_ngermelech",
+      "iso": null
+    },
+    "parent": {
+      "id": "PW_melekeok",
+      "level": 1,
+      "name": {
+        "local": "Melekeok",
+        "en": "Melekeok",
+        "slug": "melekeok"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PW_melekeok",
+        "level": 1,
+        "name": {
+          "local": "Melekeok",
+          "en": "Melekeok",
+          "slug": "melekeok"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.502",
+      "lon": "134.63"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PW_melekeok_ngeruliang",
+    "level": 2,
+    "level_name": {
+      "local": "Hamlet",
+      "en": "Hamlet"
+    },
+    "name": {
+      "local": "Ngeruliang",
+      "en": "Ngeruliang",
+      "slug": "ngeruliang"
+    },
+    "code": {
+      "id": "PW_melekeok_ngeruliang",
+      "iso": null
+    },
+    "parent": {
+      "id": "PW_melekeok",
+      "level": 1,
+      "name": {
+        "local": "Melekeok",
+        "en": "Melekeok",
+        "slug": "melekeok"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PW_melekeok",
+        "level": 1,
+        "name": {
+          "local": "Melekeok",
+          "en": "Melekeok",
+          "slug": "melekeok"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.506",
+      "lon": "134.628"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PW_melekeok_ukaeb",
+    "level": 2,
+    "level_name": {
+      "local": "Hamlet",
+      "en": "Hamlet"
+    },
+    "name": {
+      "local": "Ukaeb",
+      "en": "Ukaeb",
+      "slug": "ukaeb"
+    },
+    "code": {
+      "id": "PW_melekeok_ukaeb",
+      "iso": null
+    },
+    "parent": {
+      "id": "PW_melekeok",
+      "level": 1,
+      "name": {
+        "local": "Melekeok",
+        "en": "Melekeok",
+        "slug": "melekeok"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PW_melekeok",
+        "level": 1,
+        "name": {
+          "local": "Melekeok",
+          "en": "Melekeok",
+          "slug": "melekeok"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.496",
+      "lon": "134.632"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

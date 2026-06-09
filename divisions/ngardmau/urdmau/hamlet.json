@@ -1,0 +1,45 @@
+{
+  "id": "PW_ngardmau_urdmau",
+  "level": 2,
+  "level_name": {
+    "local": "Hamlet",
+    "en": "Hamlet"
+  },
+  "name": {
+    "local": "Urdmau",
+    "en": "Urdmau",
+    "slug": "urdmau"
+  },
+  "code": {
+    "id": "PW_ngardmau_urdmau",
+    "iso": null
+  },
+  "parent": {
+    "id": "PW_ngardmau",
+    "level": 1,
+    "name": {
+      "local": "Ngardmau",
+      "en": "Ngardmau",
+      "slug": "ngardmau"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "PW_ngardmau",
+      "level": 1,
+      "name": {
+        "local": "Ngardmau",
+        "en": "Ngardmau",
+        "slug": "ngardmau"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "7.601",
+    "lon": "134.591"
+  },
+  "metadata": {},
+  "source": {}
+}

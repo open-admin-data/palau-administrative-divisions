@@ -1,0 +1,33 @@
+{
+  "id": "PW_airai",
+  "level": 1,
+  "level_name": {
+    "local": "State",
+    "en": "State"
+  },
+  "name": {
+    "local": "Airai",
+    "en": "Airai",
+    "slug": "airai"
+  },
+  "code": {
+    "id": "PW_airai",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "hamlet": 6
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "7.374",
+    "lon": "134.549"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/pw/states/airai/",
+    "api": "https://openadmindata.org/api/pw/"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "id": "PW_ngaraard_ngkeklau",
+  "level": 2,
+  "level_name": {
+    "local": "Hamlet",
+    "en": "Hamlet"
+  },
+  "name": {
+    "local": "Ngkeklau",
+    "en": "Ngkeklau",
+    "slug": "ngkeklau"
+  },
+  "code": {
+    "id": "PW_ngaraard_ngkeklau",
+    "iso": null
+  },
+  "parent": {
+    "id": "PW_ngaraard",
+    "level": 1,
+    "name": {
+      "local": "Ngaraard",
+      "en": "Ngaraard",
+      "slug": "ngaraard"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "PW_ngaraard",
+      "level": 1,
+      "name": {
+        "local": "Ngaraard",
+        "en": "Ngaraard",
+        "slug": "ngaraard"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "7.588",
+    "lon": "134.62"
+  },
+  "metadata": {},
+  "source": {}
+}

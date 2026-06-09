@@ -1,0 +1,227 @@
+[
+  {
+    "id": "PW_peleliu_ngerchol",
+    "level": 2,
+    "level_name": {
+      "local": "Hamlet",
+      "en": "Hamlet"
+    },
+    "name": {
+      "local": "Ngerchol",
+      "en": "Ngerchol",
+      "slug": "ngerchol"
+    },
+    "code": {
+      "id": "PW_peleliu_ngerchol",
+      "iso": null
+    },
+    "parent": {
+      "id": "PW_peleliu",
+      "level": 1,
+      "name": {
+        "local": "Peleliu",
+        "en": "Peleliu",
+        "slug": "peleliu"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PW_peleliu",
+        "level": 1,
+        "name": {
+          "local": "Peleliu",
+          "en": "Peleliu",
+          "slug": "peleliu"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.032",
+      "lon": "134.254"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PW_peleliu_ngerdelolk",
+    "level": 2,
+    "level_name": {
+      "local": "Hamlet",
+      "en": "Hamlet"
+    },
+    "name": {
+      "local": "Ngerdelolk",
+      "en": "Ngerdelolk",
+      "slug": "ngerdelolk"
+    },
+    "code": {
+      "id": "PW_peleliu_ngerdelolk",
+      "iso": null
+    },
+    "parent": {
+      "id": "PW_peleliu",
+      "level": 1,
+      "name": {
+        "local": "Peleliu",
+        "en": "Peleliu",
+        "slug": "peleliu"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PW_peleliu",
+        "level": 1,
+        "name": {
+          "local": "Peleliu",
+          "en": "Peleliu",
+          "slug": "peleliu"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.007",
+      "lon": "134.258"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PW_peleliu_ngerkeiukl",
+    "level": 2,
+    "level_name": {
+      "local": "Hamlet",
+      "en": "Hamlet"
+    },
+    "name": {
+      "local": "Ngerkeiukl",
+      "en": "Ngerkeiukl",
+      "slug": "ngerkeiukl"
+    },
+    "code": {
+      "id": "PW_peleliu_ngerkeiukl",
+      "iso": null
+    },
+    "parent": {
+      "id": "PW_peleliu",
+      "level": 1,
+      "name": {
+        "local": "Peleliu",
+        "en": "Peleliu",
+        "slug": "peleliu"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PW_peleliu",
+        "level": 1,
+        "name": {
+          "local": "Peleliu",
+          "en": "Peleliu",
+          "slug": "peleliu"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.009",
+      "lon": "134.233"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PW_peleliu_ngesias",
+    "level": 2,
+    "level_name": {
+      "local": "Hamlet",
+      "en": "Hamlet"
+    },
+    "name": {
+      "local": "Ngesias",
+      "en": "Ngesias",
+      "slug": "ngesias"
+    },
+    "code": {
+      "id": "PW_peleliu_ngesias",
+      "iso": null
+    },
+    "parent": {
+      "id": "PW_peleliu",
+      "level": 1,
+      "name": {
+        "local": "Peleliu",
+        "en": "Peleliu",
+        "slug": "peleliu"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PW_peleliu",
+        "level": 1,
+        "name": {
+          "local": "Peleliu",
+          "en": "Peleliu",
+          "slug": "peleliu"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.006",
+      "lon": "134.239"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PW_peleliu_teliu",
+    "level": 2,
+    "level_name": {
+      "local": "Hamlet",
+      "en": "Hamlet"
+    },
+    "name": {
+      "local": "Teliu",
+      "en": "Teliu",
+      "slug": "teliu"
+    },
+    "code": {
+      "id": "PW_peleliu_teliu",
+      "iso": null
+    },
+    "parent": {
+      "id": "PW_peleliu",
+      "level": 1,
+      "name": {
+        "local": "Peleliu",
+        "en": "Peleliu",
+        "slug": "peleliu"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PW_peleliu",
+        "level": 1,
+        "name": {
+          "local": "Peleliu",
+          "en": "Peleliu",
+          "slug": "peleliu"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.987",
+      "lon": "134.236"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,45 @@
+{
+  "id": "PW_ngarchelong_ngebei",
+  "level": 2,
+  "level_name": {
+    "local": "Hamlet",
+    "en": "Hamlet"
+  },
+  "name": {
+    "local": "Ngebei",
+    "en": "Ngebei",
+    "slug": "ngebei"
+  },
+  "code": {
+    "id": "PW_ngarchelong_ngebei",
+    "iso": null
+  },
+  "parent": {
+    "id": "PW_ngarchelong",
+    "level": 1,
+    "name": {
+      "local": "Ngarchelong",
+      "en": "Ngarchelong",
+      "slug": "ngarchelong"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "PW_ngarchelong",
+      "level": 1,
+      "name": {
+        "local": "Ngarchelong",
+        "en": "Ngarchelong",
+        "slug": "ngarchelong"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "7.688",
+    "lon": "134.635"
+  },
+  "metadata": {},
+  "source": {}
+}

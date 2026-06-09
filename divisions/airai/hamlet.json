@@ -1,0 +1,272 @@
+[
+  {
+    "id": "PW_airai_ngchesechang",
+    "level": 2,
+    "level_name": {
+      "local": "Hamlet",
+      "en": "Hamlet"
+    },
+    "name": {
+      "local": "Ngchesechang",
+      "en": "Ngchesechang",
+      "slug": "ngchesechang"
+    },
+    "code": {
+      "id": "PW_airai_ngchesechang",
+      "iso": null
+    },
+    "parent": {
+      "id": "PW_airai",
+      "level": 1,
+      "name": {
+        "local": "Airai",
+        "en": "Airai",
+        "slug": "airai"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PW_airai",
+        "level": 1,
+        "name": {
+          "local": "Airai",
+          "en": "Airai",
+          "slug": "airai"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.399",
+      "lon": "134.563"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PW_airai_ngeruluobel",
+    "level": 2,
+    "level_name": {
+      "local": "Hamlet",
+      "en": "Hamlet"
+    },
+    "name": {
+      "local": "Ngeruluobel",
+      "en": "Ngeruluobel",
+      "slug": "ngeruluobel"
+    },
+    "code": {
+      "id": "PW_airai_ngeruluobel",
+      "iso": null
+    },
+    "parent": {
+      "id": "PW_airai",
+      "level": 1,
+      "name": {
+        "local": "Airai",
+        "en": "Airai",
+        "slug": "airai"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PW_airai",
+        "level": 1,
+        "name": {
+          "local": "Airai",
+          "en": "Airai",
+          "slug": "airai"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.38",
+      "lon": "134.524"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PW_airai_ngerusar",
+    "level": 2,
+    "level_name": {
+      "local": "Hamlet",
+      "en": "Hamlet"
+    },
+    "name": {
+      "local": "Ngerusar",
+      "en": "Ngerusar",
+      "slug": "ngerusar"
+    },
+    "code": {
+      "id": "PW_airai_ngerusar",
+      "iso": null
+    },
+    "parent": {
+      "id": "PW_airai",
+      "level": 1,
+      "name": {
+        "local": "Airai",
+        "en": "Airai",
+        "slug": "airai"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PW_airai",
+        "level": 1,
+        "name": {
+          "local": "Airai",
+          "en": "Airai",
+          "slug": "airai"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.368",
+      "lon": "134.536"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PW_airai_ngetkib",
+    "level": 2,
+    "level_name": {
+      "local": "Hamlet",
+      "en": "Hamlet"
+    },
+    "name": {
+      "local": "Ngetkib",
+      "en": "Ngetkib",
+      "slug": "ngetkib"
+    },
+    "code": {
+      "id": "PW_airai_ngetkib",
+      "iso": null
+    },
+    "parent": {
+      "id": "PW_airai",
+      "level": 1,
+      "name": {
+        "local": "Airai",
+        "en": "Airai",
+        "slug": "airai"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PW_airai",
+        "level": 1,
+        "name": {
+          "local": "Airai",
+          "en": "Airai",
+          "slug": "airai"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.364",
+      "lon": "134.512"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PW_airai_oikull",
+    "level": 2,
+    "level_name": {
+      "local": "Hamlet",
+      "en": "Hamlet"
+    },
+    "name": {
+      "local": "Oikull",
+      "en": "Oikull",
+      "slug": "oikull"
+    },
+    "code": {
+      "id": "PW_airai_oikull",
+      "iso": null
+    },
+    "parent": {
+      "id": "PW_airai",
+      "level": 1,
+      "name": {
+        "local": "Airai",
+        "en": "Airai",
+        "slug": "airai"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PW_airai",
+        "level": 1,
+        "name": {
+          "local": "Airai",
+          "en": "Airai",
+          "slug": "airai"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.366",
+      "lon": "134.581"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PW_airai_ordome",
+    "level": 2,
+    "level_name": {
+      "local": "Hamlet",
+      "en": "Hamlet"
+    },
+    "name": {
+      "local": "Ordome",
+      "en": "Ordome",
+      "slug": "ordome"
+    },
+    "code": {
+      "id": "PW_airai_ordome",
+      "iso": null
+    },
+    "parent": {
+      "id": "PW_airai",
+      "level": 1,
+      "name": {
+        "local": "Airai",
+        "en": "Airai",
+        "slug": "airai"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PW_airai",
+        "level": 1,
+        "name": {
+          "local": "Airai",
+          "en": "Airai",
+          "slug": "airai"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.371",
+      "lon": "134.556"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

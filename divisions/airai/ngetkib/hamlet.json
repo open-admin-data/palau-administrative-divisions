@@ -1,0 +1,45 @@
+{
+  "id": "PW_airai_ngetkib",
+  "level": 2,
+  "level_name": {
+    "local": "Hamlet",
+    "en": "Hamlet"
+  },
+  "name": {
+    "local": "Ngetkib",
+    "en": "Ngetkib",
+    "slug": "ngetkib"
+  },
+  "code": {
+    "id": "PW_airai_ngetkib",
+    "iso": null
+  },
+  "parent": {
+    "id": "PW_airai",
+    "level": 1,
+    "name": {
+      "local": "Airai",
+      "en": "Airai",
+      "slug": "airai"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "PW_airai",
+      "level": 1,
+      "name": {
+        "local": "Airai",
+        "en": "Airai",
+        "slug": "airai"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "7.364",
+    "lon": "134.512"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "PW_ngaraard_ulimang",
+  "level": 2,
+  "level_name": {
+    "local": "Hamlet",
+    "en": "Hamlet"
+  },
+  "name": {
+    "local": "Ulimang",
+    "en": "Ulimang",
+    "slug": "ulimang"
+  },
+  "code": {
+    "id": "PW_ngaraard_ulimang",
+    "iso": null
+  },
+  "parent": {
+    "id": "PW_ngaraard",
+    "level": 1,
+    "name": {
+      "local": "Ngaraard",
+      "en": "Ngaraard",
+      "slug": "ngaraard"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "PW_ngaraard",
+      "level": 1,
+      "name": {
+        "local": "Ngaraard",
+        "en": "Ngaraard",
+        "slug": "ngaraard"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "7.614",
+    "lon": "134.631"
+  },
+  "metadata": {},
+  "source": {}
+}

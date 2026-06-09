@@ -1,0 +1,45 @@
+{
+  "id": "PW_ngeremlengui_imeong",
+  "level": 2,
+  "level_name": {
+    "local": "Hamlet",
+    "en": "Hamlet"
+  },
+  "name": {
+    "local": "Imeong",
+    "en": "Imeong",
+    "slug": "imeong"
+  },
+  "code": {
+    "id": "PW_ngeremlengui_imeong",
+    "iso": null
+  },
+  "parent": {
+    "id": "PW_ngeremlengui",
+    "level": 1,
+    "name": {
+      "local": "Ngeremlengui",
+      "en": "Ngeremlengui",
+      "slug": "ngeremlengui"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "PW_ngeremlengui",
+      "level": 1,
+      "name": {
+        "local": "Ngeremlengui",
+        "en": "Ngeremlengui",
+        "slug": "ngeremlengui"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "7.531",
+    "lon": "134.514"
+  },
+  "metadata": {},
+  "source": {}
+}

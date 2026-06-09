@@ -1,0 +1,45 @@
+{
+  "id": "PW_hatohobei_hatohobei-helens-reef",
+  "level": 2,
+  "level_name": {
+    "local": "Hamlet",
+    "en": "Hamlet"
+  },
+  "name": {
+    "local": "Hatohobei + Helens Reef",
+    "en": "Hatohobei + Helens Reef",
+    "slug": "hatohobei-helens-reef"
+  },
+  "code": {
+    "id": "PW_hatohobei_hatohobei-helens-reef",
+    "iso": null
+  },
+  "parent": {
+    "id": "PW_hatohobei",
+    "level": 1,
+    "name": {
+      "local": "Hatohobei",
+      "en": "Hatohobei",
+      "slug": "hatohobei"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "PW_hatohobei",
+      "level": 1,
+      "name": {
+        "local": "Hatohobei",
+        "en": "Hatohobei",
+        "slug": "hatohobei"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "3.006",
+    "lon": "131.124"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,39 @@
+# Airai — Palau Administrative Divisions
+
+> 6 hamlets
+> Code: PW_airai
+> Coordinates: 7.374, 134.549
+> Last updated: 2026-06-09. License: CC-BY-4.0.
+
+## Hamlets
+
+### Ngchesechang
+
+Code: PW_airai_ngchesechang, Coordinates: 7.399, 134.563
+
+
+### Ngeruluobel
+
+Code: PW_airai_ngeruluobel, Coordinates: 7.38, 134.524
+
+
+### Ngerusar
+
+Code: PW_airai_ngerusar, Coordinates: 7.368, 134.536
+
+
+### Ngetkib
+
+Code: PW_airai_ngetkib, Coordinates: 7.364, 134.512
+
+
+### Oikull
+
+Code: PW_airai_oikull, Coordinates: 7.366, 134.581
+
+
+### Ordome
+
+Code: PW_airai_ordome, Coordinates: 7.371, 134.556
+
+

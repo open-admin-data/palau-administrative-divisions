@@ -1,0 +1,45 @@
+{
+  "id": "PW_koror_ngermid",
+  "level": 2,
+  "level_name": {
+    "local": "Hamlet",
+    "en": "Hamlet"
+  },
+  "name": {
+    "local": "Ngermid",
+    "en": "Ngermid",
+    "slug": "ngermid"
+  },
+  "code": {
+    "id": "PW_koror_ngermid",
+    "iso": null
+  },
+  "parent": {
+    "id": "PW_koror",
+    "level": 1,
+    "name": {
+      "local": "Koror",
+      "en": "Koror",
+      "slug": "koror"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "PW_koror",
+      "level": 1,
+      "name": {
+        "local": "Koror",
+        "en": "Koror",
+        "slug": "koror"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "7.348",
+    "lon": "134.501"
+  },
+  "metadata": {},
+  "source": {}
+}

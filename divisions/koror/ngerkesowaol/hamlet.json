@@ -1,0 +1,45 @@
+{
+  "id": "PW_koror_ngerkesowaol",
+  "level": 2,
+  "level_name": {
+    "local": "Hamlet",
+    "en": "Hamlet"
+  },
+  "name": {
+    "local": "Ngerkesowaol",
+    "en": "Ngerkesowaol",
+    "slug": "ngerkesowaol"
+  },
+  "code": {
+    "id": "PW_koror_ngerkesowaol",
+    "iso": null
+  },
+  "parent": {
+    "id": "PW_koror",
+    "level": 1,
+    "name": {
+      "local": "Koror",
+      "en": "Koror",
+      "slug": "koror"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "PW_koror",
+      "level": 1,
+      "name": {
+        "local": "Koror",
+        "en": "Koror",
+        "slug": "koror"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "7.341",
+    "lon": "134.493"
+  },
+  "metadata": {},
+  "source": {}
+}

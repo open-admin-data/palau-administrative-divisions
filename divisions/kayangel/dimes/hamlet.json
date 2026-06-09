@@ -1,0 +1,45 @@
+{
+  "id": "PW_kayangel_dimes",
+  "level": 2,
+  "level_name": {
+    "local": "Hamlet",
+    "en": "Hamlet"
+  },
+  "name": {
+    "local": "Dimes",
+    "en": "Dimes",
+    "slug": "dimes"
+  },
+  "code": {
+    "id": "PW_kayangel_dimes",
+    "iso": null
+  },
+  "parent": {
+    "id": "PW_kayangel",
+    "level": 1,
+    "name": {
+      "local": "Kayangel",
+      "en": "Kayangel",
+      "slug": "kayangel"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "PW_kayangel",
+      "level": 1,
+      "name": {
+        "local": "Kayangel",
+        "en": "Kayangel",
+        "slug": "kayangel"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "8.077",
+    "lon": "134.718"
+  },
+  "metadata": {},
+  "source": {}
+}

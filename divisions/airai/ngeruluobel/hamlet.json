@@ -1,0 +1,45 @@
+{
+  "id": "PW_airai_ngeruluobel",
+  "level": 2,
+  "level_name": {
+    "local": "Hamlet",
+    "en": "Hamlet"
+  },
+  "name": {
+    "local": "Ngeruluobel",
+    "en": "Ngeruluobel",
+    "slug": "ngeruluobel"
+  },
+  "code": {
+    "id": "PW_airai_ngeruluobel",
+    "iso": null
+  },
+  "parent": {
+    "id": "PW_airai",
+    "level": 1,
+    "name": {
+      "local": "Airai",
+      "en": "Airai",
+      "slug": "airai"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "PW_airai",
+      "level": 1,
+      "name": {
+        "local": "Airai",
+        "en": "Airai",
+        "slug": "airai"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "7.38",
+    "lon": "134.524"
+  },
+  "metadata": {},
+  "source": {}
+}

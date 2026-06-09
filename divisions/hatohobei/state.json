@@ -1,0 +1,33 @@
+{
+  "id": "PW_hatohobei",
+  "level": 1,
+  "level_name": {
+    "local": "State",
+    "en": "State"
+  },
+  "name": {
+    "local": "Hatohobei",
+    "en": "Hatohobei",
+    "slug": "hatohobei"
+  },
+  "code": {
+    "id": "PW_hatohobei",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "hamlet": 1
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "2.908",
+    "lon": "131.482"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/pw/states/hatohobei/",
+    "api": "https://openadmindata.org/api/pw/"
+  }
+}

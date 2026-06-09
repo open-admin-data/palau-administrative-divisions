@@ -1,0 +1,34 @@
+# Peleliu — Palau Administrative Divisions
+
+> 5 hamlets
+> Code: PW_peleliu
+> Coordinates: 7.036, 134.253
+> Last updated: 2026-06-09. License: CC-BY-4.0.
+
+## Hamlets
+
+### Ngerchol
+
+Code: PW_peleliu_ngerchol, Coordinates: 7.032, 134.254
+
+
+### Ngerdelolk
+
+Code: PW_peleliu_ngerdelolk, Coordinates: 7.007, 134.258
+
+
+### Ngerkeiukl
+
+Code: PW_peleliu_ngerkeiukl, Coordinates: 7.009, 134.233
+
+
+### Ngesias
+
+Code: PW_peleliu_ngesias, Coordinates: 7.006, 134.239
+
+
+### Teliu
+
+Code: PW_peleliu_teliu, Coordinates: 6.987, 134.236
+
+

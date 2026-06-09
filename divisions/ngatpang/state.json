@@ -1,0 +1,33 @@
+{
+  "id": "PW_ngatpang",
+  "level": 1,
+  "level_name": {
+    "local": "State",
+    "en": "State"
+  },
+  "name": {
+    "local": "Ngatpang",
+    "en": "Ngatpang",
+    "slug": "ngatpang"
+  },
+  "code": {
+    "id": "PW_ngatpang",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "hamlet": 0
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "7.459",
+    "lon": "134.521"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/pw/states/ngatpang/",
+    "api": "https://openadmindata.org/api/pw/"
+  }
+}

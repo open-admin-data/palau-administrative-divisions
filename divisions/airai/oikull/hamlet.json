@@ -1,0 +1,45 @@
+{
+  "id": "PW_airai_oikull",
+  "level": 2,
+  "level_name": {
+    "local": "Hamlet",
+    "en": "Hamlet"
+  },
+  "name": {
+    "local": "Oikull",
+    "en": "Oikull",
+    "slug": "oikull"
+  },
+  "code": {
+    "id": "PW_airai_oikull",
+    "iso": null
+  },
+  "parent": {
+    "id": "PW_airai",
+    "level": 1,
+    "name": {
+      "local": "Airai",
+      "en": "Airai",
+      "slug": "airai"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "PW_airai",
+      "level": 1,
+      "name": {
+        "local": "Airai",
+        "en": "Airai",
+        "slug": "airai"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "7.366",
+    "lon": "134.581"
+  },
+  "metadata": {},
+  "source": {}
+}

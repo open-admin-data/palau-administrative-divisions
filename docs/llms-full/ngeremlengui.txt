@@ -1,0 +1,49 @@
+# Ngeremlengui — Palau Administrative Divisions
+
+> 8 hamlets
+> Code: PW_ngeremlengui
+> Coordinates: 7.52, 134.548
+> Last updated: 2026-06-09. License: CC-BY-4.0.
+
+## Hamlets
+
+### Ibobang
+
+Code: PW_ngeremlengui_ibobang, Coordinates: 7.483, 134.541
+
+
+### Imeong
+
+Code: PW_ngeremlengui_imeong, Coordinates: 7.531, 134.514
+
+
+### Ngchemesed
+
+Code: PW_ngeremlengui_ngchemesed, Coordinates: 7.511, 134.502
+
+
+### Ngchesar
+
+Code: PW_ngeremlengui_ngchesar, Coordinates: 7.473, 134.589
+
+
+### Ngereklengon
+
+Code: PW_ngeremlengui_ngereklengon, Coordinates: 7.51, 134.514
+
+
+### Ngeriungs
+
+Code: PW_ngeremlengui_ngeriungs, Coordinates: 7.483, 134.594
+
+
+### Ngermetengel
+
+Code: PW_ngeremlengui_ngermetengel, Coordinates: 7.522, 134.507
+
+
+### Ngerutchei
+
+Code: PW_ngeremlengui_ngerutchei, Coordinates: 7.526, 134.559
+
+

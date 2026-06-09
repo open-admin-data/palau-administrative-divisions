@@ -1,0 +1,45 @@
+{
+  "id": "PW_ngeremlengui_ibobang",
+  "level": 2,
+  "level_name": {
+    "local": "Hamlet",
+    "en": "Hamlet"
+  },
+  "name": {
+    "local": "Ibobang",
+    "en": "Ibobang",
+    "slug": "ibobang"
+  },
+  "code": {
+    "id": "PW_ngeremlengui_ibobang",
+    "iso": null
+  },
+  "parent": {
+    "id": "PW_ngeremlengui",
+    "level": 1,
+    "name": {
+      "local": "Ngeremlengui",
+      "en": "Ngeremlengui",
+      "slug": "ngeremlengui"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "PW_ngeremlengui",
+      "level": 1,
+      "name": {
+        "local": "Ngeremlengui",
+        "en": "Ngeremlengui",
+        "slug": "ngeremlengui"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "7.483",
+    "lon": "134.541"
+  },
+  "metadata": {},
+  "source": {}
+}

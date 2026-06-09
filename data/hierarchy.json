@@ -1,0 +1,1152 @@
+{
+  "_attribution": "Data from Open Admin Data (https://openadmindata.org/pw/) — CC-BY-4.0. Please cite: https://github.com/open-admin-data/palau-administrative-divisions",
+  "data": [
+    {
+      "id": "PW_aimeliik",
+      "name": {
+        "local": "Aimeliik",
+        "en": "Aimeliik",
+        "slug": "aimeliik"
+      },
+      "code": {
+        "id": "PW_aimeliik",
+        "iso": null
+      },
+      "hamlet": [
+        {
+          "id": "PW_aimeliik_ngchemiangel",
+          "name": {
+            "local": "Ngchemiangel",
+            "en": "Ngchemiangel",
+            "slug": "ngchemiangel"
+          },
+          "code": {
+            "id": "PW_aimeliik_ngchemiangel",
+            "iso": null
+          }
+        },
+        {
+          "id": "PW_aimeliik_medorm",
+          "name": {
+            "local": "Medorm",
+            "en": "Medorm",
+            "slug": "medorm"
+          },
+          "code": {
+            "id": "PW_aimeliik_medorm",
+            "iso": null
+          }
+        },
+        {
+          "id": "PW_aimeliik_elechui",
+          "name": {
+            "local": "Elechui",
+            "en": "Elechui",
+            "slug": "elechui"
+          },
+          "code": {
+            "id": "PW_aimeliik_elechui",
+            "iso": null
+          }
+        },
+        {
+          "id": "PW_aimeliik_ngerkeai",
+          "name": {
+            "local": "Ngerkeai",
+            "en": "Ngerkeai",
+            "slug": "ngerkeai"
+          },
+          "code": {
+            "id": "PW_aimeliik_ngerkeai",
+            "iso": null
+          }
+        },
+        {
+          "id": "PW_aimeliik_imul",
+          "name": {
+            "local": "Imul",
+            "en": "Imul",
+            "slug": "imul"
+          },
+          "code": {
+            "id": "PW_aimeliik_imul",
+            "iso": null
+          }
+        },
+        {
+          "id": "PW_aimeliik_ngatpang",
+          "name": {
+            "local": "Ngatpang",
+            "en": "Ngatpang",
+            "slug": "ngatpang"
+          },
+          "code": {
+            "id": "PW_aimeliik_ngatpang",
+            "iso": null
+          }
+        }
+      ]
+    },
+    {
+      "id": "PW_airai",
+      "name": {
+        "local": "Airai",
+        "en": "Airai",
+        "slug": "airai"
+      },
+      "code": {
+        "id": "PW_airai",
+        "iso": null
+      },
+      "hamlet": [
+        {
+          "id": "PW_airai_ordome",
+          "name": {
+            "local": "Ordome",
+            "en": "Ordome",
+            "slug": "ordome"
+          },
+          "code": {
+            "id": "PW_airai_ordome",
+            "iso": null
+          }
+        },
+        {
+          "id": "PW_airai_ngerusar",
+          "name": {
+            "local": "Ngerusar",
+            "en": "Ngerusar",
+            "slug": "ngerusar"
+          },
+          "code": {
+            "id": "PW_airai_ngerusar",
+            "iso": null
+          }
+        },
+        {
+          "id": "PW_airai_ngeruluobel",
+          "name": {
+            "local": "Ngeruluobel",
+            "en": "Ngeruluobel",
+            "slug": "ngeruluobel"
+          },
+          "code": {
+            "id": "PW_airai_ngeruluobel",
+            "iso": null
+          }
+        },
+        {
+          "id": "PW_airai_ngetkib",
+          "name": {
+            "local": "Ngetkib",
+            "en": "Ngetkib",
+            "slug": "ngetkib"
+          },
+          "code": {
+            "id": "PW_airai_ngetkib",
+            "iso": null
+          }
+        },
+        {
+          "id": "PW_airai_oikull",
+          "name": {
+            "local": "Oikull",
+            "en": "Oikull",
+            "slug": "oikull"
+          },
+          "code": {
+            "id": "PW_airai_oikull",
+            "iso": null
+          }
+        },
+        {
+          "id": "PW_airai_ngchesechang",
+          "name": {
+            "local": "Ngchesechang",
+            "en": "Ngchesechang",
+            "slug": "ngchesechang"
+          },
+          "code": {
+            "id": "PW_airai_ngchesechang",
+            "iso": null
+          }
+        }
+      ]
+    },
+    {
+      "id": "PW_angaur",
+      "name": {
+        "local": "Angaur",
+        "en": "Angaur",
+        "slug": "angaur"
+      },
+      "code": {
+        "id": "PW_angaur",
+        "iso": null
+      },
+      "hamlet": [
+        {
+          "id": "PW_angaur_rois",
+          "name": {
+            "local": "Rois",
+            "en": "Rois",
+            "slug": "rois"
+          },
+          "code": {
+            "id": "PW_angaur_rois",
+            "iso": null
+          }
+        },
+        {
+          "id": "PW_angaur_ngebeianged",
+          "name": {
+            "local": "Ngebeianged",
+            "en": "Ngebeianged",
+            "slug": "ngebeianged"
+          },
+          "code": {
+            "id": "PW_angaur_ngebeianged",
+            "iso": null
+          }
+        },
+        {
+          "id": "PW_angaur_ngermasech",
+          "name": {
+            "local": "Ngermasech",
+            "en": "Ngermasech",
+            "slug": "ngermasech"
+          },
+          "code": {
+            "id": "PW_angaur_ngermasech",
+            "iso": null
+          }
+        },
+        {
+          "id": "PW_angaur_ngerbelau",
+          "name": {
+            "local": "Ngerbelau",
+            "en": "Ngerbelau",
+            "slug": "ngerbelau"
+          },
+          "code": {
+            "id": "PW_angaur_ngerbelau",
+            "iso": null
+          }
+        }
+      ]
+    },
+    {
+      "id": "PW_hatohobei",
+      "name": {
+        "local": "Hatohobei",
+        "en": "Hatohobei",
+        "slug": "hatohobei"
+      },
+      "code": {
+        "id": "PW_hatohobei",
+        "iso": null
+      },
+      "hamlet": [
+        {
+          "id": "PW_hatohobei_hatohobei-helens-reef",
+          "name": {
+            "local": "Hatohobei + Helens Reef",
+            "en": "Hatohobei + Helens Reef",
+            "slug": "hatohobei-helens-reef"
+          },
+          "code": {
+            "id": "PW_hatohobei_hatohobei-helens-reef",
+            "iso": null
+          }
+        }
+      ]
+    },
+    {
+      "id": "PW_koror",
+      "name": {
+        "local": "Koror",
+        "en": "Koror",
+        "slug": "koror"
+      },
+      "code": {
+        "id": "PW_koror",
+        "iso": null
+      },
+      "hamlet": [
+        {
+          "id": "PW_koror_ngerkesowaol",
+          "name": {
+            "local": "Ngerkesowaol",
+            "en": "Ngerkesowaol",
+            "slug": "ngerkesowaol"
+          },
+          "code": {
+            "id": "PW_koror_ngerkesowaol",
+            "iso": null
+          }
+        },
+        {
+          "id": "PW_koror_ngerbeched",
+          "name": {
+            "local": "Ngerbeched",
+            "en": "Ngerbeched",
+            "slug": "ngerbeched"
+          },
+          "code": {
+            "id": "PW_koror_ngerbeched",
+            "iso": null
+          }
+        },
+        {
+          "id": "PW_koror_iyebukel",
+          "name": {
+            "local": "Iyebukel",
+            "en": "Iyebukel",
+            "slug": "iyebukel"
+          },
+          "code": {
+            "id": "PW_koror_iyebukel",
+            "iso": null
+          }
+        },
+        {
+          "id": "PW_koror_meketii",
+          "name": {
+            "local": "Meketii",
+            "en": "Meketii",
+            "slug": "meketii"
+          },
+          "code": {
+            "id": "PW_koror_meketii",
+            "iso": null
+          }
+        },
+        {
+          "id": "PW_koror_medalaii",
+          "name": {
+            "local": "Medalaii",
+            "en": "Medalaii",
+            "slug": "medalaii"
+          },
+          "code": {
+            "id": "PW_koror_medalaii",
+            "iso": null
+          }
+        },
+        {
+          "id": "PW_koror_idid-03",
+          "name": {
+            "local": "Idid 03",
+            "en": "Idid 03",
+            "slug": "idid-03"
+          },
+          "code": {
+            "id": "PW_koror_idid-03",
+            "iso": null
+          }
+        },
+        {
+          "id": "PW_koror_ikelau",
+          "name": {
+            "local": "Ikelau",
+            "en": "Ikelau",
+            "slug": "ikelau"
+          },
+          "code": {
+            "id": "PW_koror_ikelau",
+            "iso": null
+          }
+        },
+        {
+          "id": "PW_koror_ngerchemai",
+          "name": {
+            "local": "Ngerchemai",
+            "en": "Ngerchemai",
+            "slug": "ngerchemai"
+          },
+          "code": {
+            "id": "PW_koror_ngerchemai",
+            "iso": null
+          }
+        },
+        {
+          "id": "PW_koror_meyuns",
+          "name": {
+            "local": "Meyuns",
+            "en": "Meyuns",
+            "slug": "meyuns"
+          },
+          "code": {
+            "id": "PW_koror_meyuns",
+            "iso": null
+          }
+        },
+        {
+          "id": "PW_koror_dngronger",
+          "name": {
+            "local": "Dngronger",
+            "en": "Dngronger",
+            "slug": "dngronger"
+          },
+          "code": {
+            "id": "PW_koror_dngronger",
+            "iso": null
+          }
+        },
+        {
+          "id": "PW_koror_ngermid",
+          "name": {
+            "local": "Ngermid",
+            "en": "Ngermid",
+            "slug": "ngermid"
+          },
+          "code": {
+            "id": "PW_koror_ngermid",
+            "iso": null
+          }
+        },
+        {
+          "id": "PW_koror_ngerkebesang",
+          "name": {
+            "local": "Ngerkebesang",
+            "en": "Ngerkebesang",
+            "slug": "ngerkebesang"
+          },
+          "code": {
+            "id": "PW_koror_ngerkebesang",
+            "iso": null
+          }
+        },
+        {
+          "id": "PW_koror_rock-islands",
+          "name": {
+            "local": "Rock Islands",
+            "en": "Rock Islands",
+            "slug": "rock-islands"
+          },
+          "code": {
+            "id": "PW_koror_rock-islands",
+            "iso": null
+          }
+        }
+      ]
+    },
+    {
+      "id": "PW_melekeok",
+      "name": {
+        "local": "Melekeok",
+        "en": "Melekeok",
+        "slug": "melekeok"
+      },
+      "code": {
+        "id": "PW_melekeok",
+        "iso": null
+      },
+      "hamlet": [
+        {
+          "id": "PW_melekeok_ngeburch",
+          "name": {
+            "local": "Ngeburch",
+            "en": "Ngeburch",
+            "slug": "ngeburch"
+          },
+          "code": {
+            "id": "PW_melekeok_ngeburch",
+            "iso": null
+          }
+        },
+        {
+          "id": "PW_melekeok_ngeruliang",
+          "name": {
+            "local": "Ngeruliang",
+            "en": "Ngeruliang",
+            "slug": "ngeruliang"
+          },
+          "code": {
+            "id": "PW_melekeok_ngeruliang",
+            "iso": null
+          }
+        },
+        {
+          "id": "PW_melekeok_ngermelech",
+          "name": {
+            "local": "Ngermelech",
+            "en": "Ngermelech",
+            "slug": "ngermelech"
+          },
+          "code": {
+            "id": "PW_melekeok_ngermelech",
+            "iso": null
+          }
+        },
+        {
+          "id": "PW_melekeok_ukaeb",
+          "name": {
+            "local": "Ukaeb",
+            "en": "Ukaeb",
+            "slug": "ukaeb"
+          },
+          "code": {
+            "id": "PW_melekeok_ukaeb",
+            "iso": null
+          }
+        },
+        {
+          "id": "PW_melekeok_ngerang",
+          "name": {
+            "local": "Ngerang",
+            "en": "Ngerang",
+            "slug": "ngerang"
+          },
+          "code": {
+            "id": "PW_melekeok_ngerang",
+            "iso": null
+          }
+        },
+        {
+          "id": "PW_melekeok_negerubesang",
+          "name": {
+            "local": "Negerubesang",
+            "en": "Negerubesang",
+            "slug": "negerubesang"
+          },
+          "code": {
+            "id": "PW_melekeok_negerubesang",
+            "iso": null
+          }
+        },
+        {
+          "id": "PW_melekeok_melekeok",
+          "name": {
+            "local": "Melekeok",
+            "en": "Melekeok",
+            "slug": "melekeok"
+          },
+          "code": {
+            "id": "PW_melekeok_melekeok",
+            "iso": null
+          }
+        },
+        {
+          "id": "PW_melekeok_ngermechau",
+          "name": {
+            "local": "Ngermechau",
+            "en": "Ngermechau",
+            "slug": "ngermechau"
+          },
+          "code": {
+            "id": "PW_melekeok_ngermechau",
+            "iso": null
+          }
+        }
+      ]
+    },
+    {
+      "id": "PW_ngaraard",
+      "name": {
+        "local": "Ngaraard",
+        "en": "Ngaraard",
+        "slug": "ngaraard"
+      },
+      "code": {
+        "id": "PW_ngaraard",
+        "iso": null
+      },
+      "hamlet": [
+        {
+          "id": "PW_ngaraard_chelab",
+          "name": {
+            "local": "Chelab",
+            "en": "Chelab",
+            "slug": "chelab"
+          },
+          "code": {
+            "id": "PW_ngaraard_chelab",
+            "iso": null
+          }
+        },
+        {
+          "id": "PW_ngaraard_choll",
+          "name": {
+            "local": "Choll",
+            "en": "Choll",
+            "slug": "choll"
+          },
+          "code": {
+            "id": "PW_ngaraard_choll",
+            "iso": null
+          }
+        },
+        {
+          "id": "PW_ngaraard_ngebuked",
+          "name": {
+            "local": "Ngebuked",
+            "en": "Ngebuked",
+            "slug": "ngebuked"
+          },
+          "code": {
+            "id": "PW_ngaraard_ngebuked",
+            "iso": null
+          }
+        },
+        {
+          "id": "PW_ngaraard_ngkeklau",
+          "name": {
+            "local": "Ngkeklau",
+            "en": "Ngkeklau",
+            "slug": "ngkeklau"
+          },
+          "code": {
+            "id": "PW_ngaraard_ngkeklau",
+            "iso": null
+          }
+        },
+        {
+          "id": "PW_ngaraard_ulimang",
+          "name": {
+            "local": "Ulimang",
+            "en": "Ulimang",
+            "slug": "ulimang"
+          },
+          "code": {
+            "id": "PW_ngaraard_ulimang",
+            "iso": null
+          }
+        }
+      ]
+    },
+    {
+      "id": "PW_ngarchelong",
+      "name": {
+        "local": "Ngarchelong",
+        "en": "Ngarchelong",
+        "slug": "ngarchelong"
+      },
+      "code": {
+        "id": "PW_ngarchelong",
+        "iso": null
+      },
+      "hamlet": [
+        {
+          "id": "PW_ngarchelong_iebukel",
+          "name": {
+            "local": "Iebukel",
+            "en": "Iebukel",
+            "slug": "iebukel"
+          },
+          "code": {
+            "id": "PW_ngarchelong_iebukel",
+            "iso": null
+          }
+        },
+        {
+          "id": "PW_ngarchelong_mengellang",
+          "name": {
+            "local": "Mengellang",
+            "en": "Mengellang",
+            "slug": "mengellang"
+          },
+          "code": {
+            "id": "PW_ngarchelong_mengellang",
+            "iso": null
+          }
+        },
+        {
+          "id": "PW_ngarchelong_ngebei",
+          "name": {
+            "local": "Ngebei",
+            "en": "Ngebei",
+            "slug": "ngebei"
+          },
+          "code": {
+            "id": "PW_ngarchelong_ngebei",
+            "iso": null
+          }
+        },
+        {
+          "id": "PW_ngarchelong_ngerbau",
+          "name": {
+            "local": "Ngerbau",
+            "en": "Ngerbau",
+            "slug": "ngerbau"
+          },
+          "code": {
+            "id": "PW_ngarchelong_ngerbau",
+            "iso": null
+          }
+        },
+        {
+          "id": "PW_ngarchelong_ngebei",
+          "name": {
+            "local": "Ngebei",
+            "en": "Ngebei",
+            "slug": "ngebei"
+          },
+          "code": {
+            "id": "PW_ngarchelong_ngebei",
+            "iso": null
+          }
+        },
+        {
+          "id": "PW_ngarchelong_ollei",
+          "name": {
+            "local": "Ollei",
+            "en": "Ollei",
+            "slug": "ollei"
+          },
+          "code": {
+            "id": "PW_ngarchelong_ollei",
+            "iso": null
+          }
+        },
+        {
+          "id": "PW_ngarchelong_ngeiungel",
+          "name": {
+            "local": "Ngeiungel",
+            "en": "Ngeiungel",
+            "slug": "ngeiungel"
+          },
+          "code": {
+            "id": "PW_ngarchelong_ngeiungel",
+            "iso": null
+          }
+        },
+        {
+          "id": "PW_ngarchelong_badrulchau",
+          "name": {
+            "local": "Badrulchau",
+            "en": "Badrulchau",
+            "slug": "badrulchau"
+          },
+          "code": {
+            "id": "PW_ngarchelong_badrulchau",
+            "iso": null
+          }
+        }
+      ]
+    },
+    {
+      "id": "PW_ngardmau",
+      "name": {
+        "local": "Ngardmau",
+        "en": "Ngardmau",
+        "slug": "ngardmau"
+      },
+      "code": {
+        "id": "PW_ngardmau",
+        "iso": null
+      },
+      "hamlet": [
+        {
+          "id": "PW_ngardmau_ngerutoi",
+          "name": {
+            "local": "Ngerutoi",
+            "en": "Ngerutoi",
+            "slug": "ngerutoi"
+          },
+          "code": {
+            "id": "PW_ngardmau_ngerutoi",
+            "iso": null
+          }
+        },
+        {
+          "id": "PW_ngardmau_ngetbong",
+          "name": {
+            "local": "Ngetbong",
+            "en": "Ngetbong",
+            "slug": "ngetbong"
+          },
+          "code": {
+            "id": "PW_ngardmau_ngetbong",
+            "iso": null
+          }
+        },
+        {
+          "id": "PW_ngardmau_urdmau",
+          "name": {
+            "local": "Urdmau",
+            "en": "Urdmau",
+            "slug": "urdmau"
+          },
+          "code": {
+            "id": "PW_ngardmau_urdmau",
+            "iso": null
+          }
+        }
+      ]
+    },
+    {
+      "id": "PW_ngeremlengui",
+      "name": {
+        "local": "Ngeremlengui",
+        "en": "Ngeremlengui",
+        "slug": "ngeremlengui"
+      },
+      "code": {
+        "id": "PW_ngeremlengui",
+        "iso": null
+      },
+      "hamlet": [
+        {
+          "id": "PW_ngeremlengui_imeong",
+          "name": {
+            "local": "Imeong",
+            "en": "Imeong",
+            "slug": "imeong"
+          },
+          "code": {
+            "id": "PW_ngeremlengui_imeong",
+            "iso": null
+          }
+        },
+        {
+          "id": "PW_ngeremlengui_ngchemesed",
+          "name": {
+            "local": "Ngchemesed",
+            "en": "Ngchemesed",
+            "slug": "ngchemesed"
+          },
+          "code": {
+            "id": "PW_ngeremlengui_ngchemesed",
+            "iso": null
+          }
+        },
+        {
+          "id": "PW_ngeremlengui_ngermetengel",
+          "name": {
+            "local": "Ngermetengel",
+            "en": "Ngermetengel",
+            "slug": "ngermetengel"
+          },
+          "code": {
+            "id": "PW_ngeremlengui_ngermetengel",
+            "iso": null
+          }
+        },
+        {
+          "id": "PW_ngeremlengui_ngereklengon",
+          "name": {
+            "local": "Ngereklengon",
+            "en": "Ngereklengon",
+            "slug": "ngereklengon"
+          },
+          "code": {
+            "id": "PW_ngeremlengui_ngereklengon",
+            "iso": null
+          }
+        },
+        {
+          "id": "PW_ngeremlengui_ngerutchei",
+          "name": {
+            "local": "Ngerutchei",
+            "en": "Ngerutchei",
+            "slug": "ngerutchei"
+          },
+          "code": {
+            "id": "PW_ngeremlengui_ngerutchei",
+            "iso": null
+          }
+        },
+        {
+          "id": "PW_ngeremlengui_ibobang",
+          "name": {
+            "local": "Ibobang",
+            "en": "Ibobang",
+            "slug": "ibobang"
+          },
+          "code": {
+            "id": "PW_ngeremlengui_ibobang",
+            "iso": null
+          }
+        },
+        {
+          "id": "PW_ngeremlengui_ngchesar",
+          "name": {
+            "local": "Ngchesar",
+            "en": "Ngchesar",
+            "slug": "ngchesar"
+          },
+          "code": {
+            "id": "PW_ngeremlengui_ngchesar",
+            "iso": null
+          }
+        },
+        {
+          "id": "PW_ngeremlengui_ngeriungs",
+          "name": {
+            "local": "Ngeriungs",
+            "en": "Ngeriungs",
+            "slug": "ngeriungs"
+          },
+          "code": {
+            "id": "PW_ngeremlengui_ngeriungs",
+            "iso": null
+          }
+        }
+      ]
+    },
+    {
+      "id": "PW_ngatpang",
+      "name": {
+        "local": "Ngatpang",
+        "en": "Ngatpang",
+        "slug": "ngatpang"
+      },
+      "code": {
+        "id": "PW_ngatpang",
+        "iso": null
+      },
+      "hamlet": []
+    },
+    {
+      "id": "PW_ngchesar",
+      "name": {
+        "local": "Ngchesar",
+        "en": "Ngchesar",
+        "slug": "ngchesar"
+      },
+      "code": {
+        "id": "PW_ngchesar",
+        "iso": null
+      },
+      "hamlet": [
+        {
+          "id": "PW_ngchesar_ngerngesang",
+          "name": {
+            "local": "Ngerngesang",
+            "en": "Ngerngesang",
+            "slug": "ngerngesang"
+          },
+          "code": {
+            "id": "PW_ngchesar_ngerngesang",
+            "iso": null
+          }
+        },
+        {
+          "id": "PW_ngchesar_ngerkesou",
+          "name": {
+            "local": "Ngerkesou",
+            "en": "Ngerkesou",
+            "slug": "ngerkesou"
+          },
+          "code": {
+            "id": "PW_ngchesar_ngerkesou",
+            "iso": null
+          }
+        },
+        {
+          "id": "PW_ngchesar_ngersuul",
+          "name": {
+            "local": "Ngersuul",
+            "en": "Ngersuul",
+            "slug": "ngersuul"
+          },
+          "code": {
+            "id": "PW_ngchesar_ngersuul",
+            "iso": null
+          }
+        },
+        {
+          "id": "PW_ngchesar_ngeruikl",
+          "name": {
+            "local": "Ngeruikl",
+            "en": "Ngeruikl",
+            "slug": "ngeruikl"
+          },
+          "code": {
+            "id": "PW_ngchesar_ngeruikl",
+            "iso": null
+          }
+        }
+      ]
+    },
+    {
+      "id": "PW_ngiwal",
+      "name": {
+        "local": "Ngiwal",
+        "en": "Ngiwal",
+        "slug": "ngiwal"
+      },
+      "code": {
+        "id": "PW_ngiwal",
+        "iso": null
+      },
+      "hamlet": [
+        {
+          "id": "PW_ngiwal_ngellau",
+          "name": {
+            "local": "Ngellau",
+            "en": "Ngellau",
+            "slug": "ngellau"
+          },
+          "code": {
+            "id": "PW_ngiwal_ngellau",
+            "iso": null
+          }
+        },
+        {
+          "id": "PW_ngiwal_ngercheluuk",
+          "name": {
+            "local": "Ngercheluuk",
+            "en": "Ngercheluuk",
+            "slug": "ngercheluuk"
+          },
+          "code": {
+            "id": "PW_ngiwal_ngercheluuk",
+            "iso": null
+          }
+        },
+        {
+          "id": "PW_ngiwal_ngersngai",
+          "name": {
+            "local": "Ngersngai",
+            "en": "Ngersngai",
+            "slug": "ngersngai"
+          },
+          "code": {
+            "id": "PW_ngiwal_ngersngai",
+            "iso": null
+          }
+        }
+      ]
+    },
+    {
+      "id": "PW_peleliu",
+      "name": {
+        "local": "Peleliu",
+        "en": "Peleliu",
+        "slug": "peleliu"
+      },
+      "code": {
+        "id": "PW_peleliu",
+        "iso": null
+      },
+      "hamlet": [
+        {
+          "id": "PW_peleliu_ngerdelolk",
+          "name": {
+            "local": "Ngerdelolk",
+            "en": "Ngerdelolk",
+            "slug": "ngerdelolk"
+          },
+          "code": {
+            "id": "PW_peleliu_ngerdelolk",
+            "iso": null
+          }
+        },
+        {
+          "id": "PW_peleliu_ngesias",
+          "name": {
+            "local": "Ngesias",
+            "en": "Ngesias",
+            "slug": "ngesias"
+          },
+          "code": {
+            "id": "PW_peleliu_ngesias",
+            "iso": null
+          }
+        },
+        {
+          "id": "PW_peleliu_ngerchol",
+          "name": {
+            "local": "Ngerchol",
+            "en": "Ngerchol",
+            "slug": "ngerchol"
+          },
+          "code": {
+            "id": "PW_peleliu_ngerchol",
+            "iso": null
+          }
+        },
+        {
+          "id": "PW_peleliu_ngerkeiukl",
+          "name": {
+            "local": "Ngerkeiukl",
+            "en": "Ngerkeiukl",
+            "slug": "ngerkeiukl"
+          },
+          "code": {
+            "id": "PW_peleliu_ngerkeiukl",
+            "iso": null
+          }
+        },
+        {
+          "id": "PW_peleliu_teliu",
+          "name": {
+            "local": "Teliu",
+            "en": "Teliu",
+            "slug": "teliu"
+          },
+          "code": {
+            "id": "PW_peleliu_teliu",
+            "iso": null
+          }
+        }
+      ]
+    },
+    {
+      "id": "PW_sonsorol",
+      "name": {
+        "local": "Sonsorol",
+        "en": "Sonsorol",
+        "slug": "sonsorol"
+      },
+      "code": {
+        "id": "PW_sonsorol",
+        "iso": null
+      },
+      "hamlet": [
+        {
+          "id": "PW_sonsorol_sonsorol-pulo-anna-merir",
+          "name": {
+            "local": "Sonsorol + Pulo Anna + Merir",
+            "en": "Sonsorol + Pulo Anna + Merir",
+            "slug": "sonsorol-pulo-anna-merir"
+          },
+          "code": {
+            "id": "PW_sonsorol_sonsorol-pulo-anna-merir",
+            "iso": null
+          }
+        }
+      ]
+    },
+    {
+      "id": "PW_kayangel",
+      "name": {
+        "local": "Kayangel",
+        "en": "Kayangel",
+        "slug": "kayangel"
+      },
+      "code": {
+        "id": "PW_kayangel",
+        "iso": null
+      },
+      "hamlet": [
+        {
+          "id": "PW_kayangel_dimes",
+          "name": {
+            "local": "Dimes",
+            "en": "Dimes",
+            "slug": "dimes"
+          },
+          "code": {
+            "id": "PW_kayangel_dimes",
+            "iso": null
+          }
+        },
+        {
+          "id": "PW_kayangel_dilong",
+          "name": {
+            "local": "Dilong",
+            "en": "Dilong",
+            "slug": "dilong"
+          },
+          "code": {
+            "id": "PW_kayangel_dilong",
+            "iso": null
+          }
+        }
+      ]
+    }
+  ]
+}

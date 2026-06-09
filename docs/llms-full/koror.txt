@@ -1,0 +1,74 @@
+# Koror — Palau Administrative Divisions
+
+> 13 hamlets
+> Code: PW_koror
+> Coordinates: 7.249, 134.427
+> Last updated: 2026-06-09. License: CC-BY-4.0.
+
+## Hamlets
+
+### Dngronger
+
+Code: PW_koror_dngronger, Coordinates: 7.344, 134.479
+
+
+### Idid 03
+
+Code: PW_koror_idid-03, Coordinates: 7.343, 134.485
+
+
+### Ikelau
+
+Code: PW_koror_ikelau, Coordinates: 7.339, 134.48
+
+
+### Iyebukel
+
+Code: PW_koror_iyebukel, Coordinates: 7.349, 134.485
+
+
+### Medalaii
+
+Code: PW_koror_medalaii, Coordinates: 7.336, 134.463
+
+
+### Meketii
+
+Code: PW_koror_meketii, Coordinates: 7.348, 134.481
+
+
+### Meyuns
+
+Code: PW_koror_meyuns, Coordinates: 7.354, 134.458
+
+
+### Ngerbeched
+
+Code: PW_koror_ngerbeched, Coordinates: 7.335, 134.475
+
+
+### Ngerchemai
+
+Code: PW_koror_ngerchemai, Coordinates: 7.348, 134.491
+
+
+### Ngerkebesang
+
+Code: PW_koror_ngerkebesang, Coordinates: 7.354, 134.446
+
+
+### Ngerkesowaol
+
+Code: PW_koror_ngerkesowaol, Coordinates: 7.341, 134.493
+
+
+### Ngermid
+
+Code: PW_koror_ngermid, Coordinates: 7.348, 134.501
+
+
+### Rock Islands
+
+Code: PW_koror_rock-islands, Coordinates: 7.235, 134.373
+
+

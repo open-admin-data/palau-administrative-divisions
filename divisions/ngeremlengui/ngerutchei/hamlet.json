@@ -1,0 +1,45 @@
+{
+  "id": "PW_ngeremlengui_ngerutchei",
+  "level": 2,
+  "level_name": {
+    "local": "Hamlet",
+    "en": "Hamlet"
+  },
+  "name": {
+    "local": "Ngerutchei",
+    "en": "Ngerutchei",
+    "slug": "ngerutchei"
+  },
+  "code": {
+    "id": "PW_ngeremlengui_ngerutchei",
+    "iso": null
+  },
+  "parent": {
+    "id": "PW_ngeremlengui",
+    "level": 1,
+    "name": {
+      "local": "Ngeremlengui",
+      "en": "Ngeremlengui",
+      "slug": "ngeremlengui"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "PW_ngeremlengui",
+      "level": 1,
+      "name": {
+        "local": "Ngeremlengui",
+        "en": "Ngeremlengui",
+        "slug": "ngeremlengui"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "7.526",
+    "lon": "134.559"
+  },
+  "metadata": {},
+  "source": {}
+}

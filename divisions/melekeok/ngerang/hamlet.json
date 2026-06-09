@@ -1,0 +1,45 @@
+{
+  "id": "PW_melekeok_ngerang",
+  "level": 2,
+  "level_name": {
+    "local": "Hamlet",
+    "en": "Hamlet"
+  },
+  "name": {
+    "local": "Ngerang",
+    "en": "Ngerang",
+    "slug": "ngerang"
+  },
+  "code": {
+    "id": "PW_melekeok_ngerang",
+    "iso": null
+  },
+  "parent": {
+    "id": "PW_melekeok",
+    "level": 1,
+    "name": {
+      "local": "Melekeok",
+      "en": "Melekeok",
+      "slug": "melekeok"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "PW_melekeok",
+      "level": 1,
+      "name": {
+        "local": "Melekeok",
+        "en": "Melekeok",
+        "slug": "melekeok"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "7.497",
+    "lon": "134.635"
+  },
+  "metadata": {},
+  "source": {}
+}

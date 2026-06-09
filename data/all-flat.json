@@ -1,0 +1,533 @@
+{
+  "_attribution": "Data from Open Admin Data (https://openadmindata.org/pw/) — CC-BY-4.0. Please cite: https://github.com/open-admin-data/palau-administrative-divisions",
+  "data": [
+    {
+      "id": "PW_aimeliik",
+      "level": 1,
+      "level_name": {
+        "local": "State",
+        "en": "State"
+      },
+      "name": {
+        "local": "Aimeliik",
+        "en": "Aimeliik",
+        "slug": "aimeliik"
+      },
+      "code": {
+        "id": "PW_aimeliik",
+        "iso": null
+      },
+      "parent": null,
+      "ancestors": [],
+      "children_count": {
+        "hamlet": 6
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "7.438",
+        "lon": "134.501"
+      },
+      "metadata": {},
+      "source": {
+        "name": "Open Admin Data",
+        "url": "https://openadmindata.org/pw/states/aimeliik/",
+        "api": "https://openadmindata.org/api/pw/"
+      }
+    },
+    {
+      "id": "PW_airai",
+      "level": 1,
+      "level_name": {
+        "local": "State",
+        "en": "State"
+      },
+      "name": {
+        "local": "Airai",
+        "en": "Airai",
+        "slug": "airai"
+      },
+      "code": {
+        "id": "PW_airai",
+        "iso": null
+      },
+      "parent": null,
+      "ancestors": [],
+      "children_count": {
+        "hamlet": 6
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "7.374",
+        "lon": "134.549"
+      },
+      "metadata": {},
+      "source": {
+        "name": "Open Admin Data",
+        "url": "https://openadmindata.org/pw/states/airai/",
+        "api": "https://openadmindata.org/api/pw/"
+      }
+    },
+    {
+      "id": "PW_angaur",
+      "level": 1,
+      "level_name": {
+        "local": "State",
+        "en": "State"
+      },
+      "name": {
+        "local": "Angaur",
+        "en": "Angaur",
+        "slug": "angaur"
+      },
+      "code": {
+        "id": "PW_angaur",
+        "iso": null
+      },
+      "parent": null,
+      "ancestors": [],
+      "children_count": {
+        "hamlet": 4
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "6.906",
+        "lon": "134.138"
+      },
+      "metadata": {},
+      "source": {
+        "name": "Open Admin Data",
+        "url": "https://openadmindata.org/pw/states/angaur/",
+        "api": "https://openadmindata.org/api/pw/"
+      }
+    },
+    {
+      "id": "PW_hatohobei",
+      "level": 1,
+      "level_name": {
+        "local": "State",
+        "en": "State"
+      },
+      "name": {
+        "local": "Hatohobei",
+        "en": "Hatohobei",
+        "slug": "hatohobei"
+      },
+      "code": {
+        "id": "PW_hatohobei",
+        "iso": null
+      },
+      "parent": null,
+      "ancestors": [],
+      "children_count": {
+        "hamlet": 1
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "2.908",
+        "lon": "131.482"
+      },
+      "metadata": {},
+      "source": {
+        "name": "Open Admin Data",
+        "url": "https://openadmindata.org/pw/states/hatohobei/",
+        "api": "https://openadmindata.org/api/pw/"
+      }
+    },
+    {
+      "id": "PW_kayangel",
+      "level": 1,
+      "level_name": {
+        "local": "State",
+        "en": "State"
+      },
+      "name": {
+        "local": "Kayangel",
+        "en": "Kayangel",
+        "slug": "kayangel"
+      },
+      "code": {
+        "id": "PW_kayangel",
+        "iso": null
+      },
+      "parent": null,
+      "ancestors": [],
+      "children_count": {
+        "hamlet": 2
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "8.082",
+        "lon": "134.717"
+      },
+      "metadata": {},
+      "source": {
+        "name": "Open Admin Data",
+        "url": "https://openadmindata.org/pw/states/kayangel/",
+        "api": "https://openadmindata.org/api/pw/"
+      }
+    },
+    {
+      "id": "PW_koror",
+      "level": 1,
+      "level_name": {
+        "local": "State",
+        "en": "State"
+      },
+      "name": {
+        "local": "Koror",
+        "en": "Koror",
+        "slug": "koror"
+      },
+      "code": {
+        "id": "PW_koror",
+        "iso": null
+      },
+      "parent": null,
+      "ancestors": [],
+      "children_count": {
+        "hamlet": 13
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "7.249",
+        "lon": "134.427"
+      },
+      "metadata": {},
+      "source": {
+        "name": "Open Admin Data",
+        "url": "https://openadmindata.org/pw/states/koror/",
+        "api": "https://openadmindata.org/api/pw/"
+      }
+    },
+    {
+      "id": "PW_melekeok",
+      "level": 1,
+      "level_name": {
+        "local": "State",
+        "en": "State"
+      },
+      "name": {
+        "local": "Melekeok",
+        "en": "Melekeok",
+        "slug": "melekeok"
+      },
+      "code": {
+        "id": "PW_melekeok",
+        "iso": null
+      },
+      "parent": null,
+      "ancestors": [],
+      "children_count": {
+        "hamlet": 8
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "7.512",
+        "lon": "134.605"
+      },
+      "metadata": {},
+      "source": {
+        "name": "Open Admin Data",
+        "url": "https://openadmindata.org/pw/states/melekeok/",
+        "api": "https://openadmindata.org/api/pw/"
+      }
+    },
+    {
+      "id": "PW_ngaraard",
+      "level": 1,
+      "level_name": {
+        "local": "State",
+        "en": "State"
+      },
+      "name": {
+        "local": "Ngaraard",
+        "en": "Ngaraard",
+        "slug": "ngaraard"
+      },
+      "code": {
+        "id": "PW_ngaraard",
+        "iso": null
+      },
+      "parent": null,
+      "ancestors": [],
+      "children_count": {
+        "hamlet": 5
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "7.629",
+        "lon": "134.621"
+      },
+      "metadata": {},
+      "source": {
+        "name": "Open Admin Data",
+        "url": "https://openadmindata.org/pw/states/ngaraard/",
+        "api": "https://openadmindata.org/api/pw/"
+      }
+    },
+    {
+      "id": "PW_ngarchelong",
+      "level": 1,
+      "level_name": {
+        "local": "State",
+        "en": "State"
+      },
+      "name": {
+        "local": "Ngarchelong",
+        "en": "Ngarchelong",
+        "slug": "ngarchelong"
+      },
+      "code": {
+        "id": "PW_ngarchelong",
+        "iso": null
+      },
+      "parent": null,
+      "ancestors": [],
+      "children_count": {
+        "hamlet": 8
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "7.708",
+        "lon": "134.627"
+      },
+      "metadata": {},
+      "source": {
+        "name": "Open Admin Data",
+        "url": "https://openadmindata.org/pw/states/ngarchelong/",
+        "api": "https://openadmindata.org/api/pw/"
+      }
+    },
+    {
+      "id": "PW_ngardmau",
+      "level": 1,
+      "level_name": {
+        "local": "State",
+        "en": "State"
+      },
+      "name": {
+        "local": "Ngardmau",
+        "en": "Ngardmau",
+        "slug": "ngardmau"
+      },
+      "code": {
+        "id": "PW_ngardmau",
+        "iso": null
+      },
+      "parent": null,
+      "ancestors": [],
+      "children_count": {
+        "hamlet": 3
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "7.591",
+        "lon": "134.568"
+      },
+      "metadata": {},
+      "source": {
+        "name": "Open Admin Data",
+        "url": "https://openadmindata.org/pw/states/ngardmau/",
+        "api": "https://openadmindata.org/api/pw/"
+      }
+    },
+    {
+      "id": "PW_ngatpang",
+      "level": 1,
+      "level_name": {
+        "local": "State",
+        "en": "State"
+      },
+      "name": {
+        "local": "Ngatpang",
+        "en": "Ngatpang",
+        "slug": "ngatpang"
+      },
+      "code": {
+        "id": "PW_ngatpang",
+        "iso": null
+      },
+      "parent": null,
+      "ancestors": [],
+      "children_count": {
+        "hamlet": 0
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "7.459",
+        "lon": "134.521"
+      },
+      "metadata": {},
+      "source": {
+        "name": "Open Admin Data",
+        "url": "https://openadmindata.org/pw/states/ngatpang/",
+        "api": "https://openadmindata.org/api/pw/"
+      }
+    },
+    {
+      "id": "PW_ngchesar",
+      "level": 1,
+      "level_name": {
+        "local": "State",
+        "en": "State"
+      },
+      "name": {
+        "local": "Ngchesar",
+        "en": "Ngchesar",
+        "slug": "ngchesar"
+      },
+      "code": {
+        "id": "PW_ngchesar",
+        "iso": null
+      },
+      "parent": null,
+      "ancestors": [],
+      "children_count": {
+        "hamlet": 4
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "7.458",
+        "lon": "134.588"
+      },
+      "metadata": {},
+      "source": {
+        "name": "Open Admin Data",
+        "url": "https://openadmindata.org/pw/states/ngchesar/",
+        "api": "https://openadmindata.org/api/pw/"
+      }
+    },
+    {
+      "id": "PW_ngeremlengui",
+      "level": 1,
+      "level_name": {
+        "local": "State",
+        "en": "State"
+      },
+      "name": {
+        "local": "Ngeremlengui",
+        "en": "Ngeremlengui",
+        "slug": "ngeremlengui"
+      },
+      "code": {
+        "id": "PW_ngeremlengui",
+        "iso": null
+      },
+      "parent": null,
+      "ancestors": [],
+      "children_count": {
+        "hamlet": 8
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "7.52",
+        "lon": "134.548"
+      },
+      "metadata": {},
+      "source": {
+        "name": "Open Admin Data",
+        "url": "https://openadmindata.org/pw/states/ngeremlengui/",
+        "api": "https://openadmindata.org/api/pw/"
+      }
+    },
+    {
+      "id": "PW_ngiwal",
+      "level": 1,
+      "level_name": {
+        "local": "State",
+        "en": "State"
+      },
+      "name": {
+        "local": "Ngiwal",
+        "en": "Ngiwal",
+        "slug": "ngiwal"
+      },
+      "code": {
+        "id": "PW_ngiwal",
+        "iso": null
+      },
+      "parent": null,
+      "ancestors": [],
+      "children_count": {
+        "hamlet": 3
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "7.557",
+        "lon": "134.617"
+      },
+      "metadata": {},
+      "source": {
+        "name": "Open Admin Data",
+        "url": "https://openadmindata.org/pw/states/ngiwal/",
+        "api": "https://openadmindata.org/api/pw/"
+      }
+    },
+    {
+      "id": "PW_peleliu",
+      "level": 1,
+      "level_name": {
+        "local": "State",
+        "en": "State"
+      },
+      "name": {
+        "local": "Peleliu",
+        "en": "Peleliu",
+        "slug": "peleliu"
+      },
+      "code": {
+        "id": "PW_peleliu",
+        "iso": null
+      },
+      "parent": null,
+      "ancestors": [],
+      "children_count": {
+        "hamlet": 5
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "7.036",
+        "lon": "134.253"
+      },
+      "metadata": {},
+      "source": {
+        "name": "Open Admin Data",
+        "url": "https://openadmindata.org/pw/states/peleliu/",
+        "api": "https://openadmindata.org/api/pw/"
+      }
+    },
+    {
+      "id": "PW_sonsorol",
+      "level": 1,
+      "level_name": {
+        "local": "State",
+        "en": "State"
+      },
+      "name": {
+        "local": "Sonsorol",
+        "en": "Sonsorol",
+        "slug": "sonsorol"
+      },
+      "code": {
+        "id": "PW_sonsorol",
+        "iso": null
+      },
+      "parent": null,
+      "ancestors": [],
+      "children_count": {
+        "hamlet": 1
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "5.326",
+        "lon": "132.223"
+      },
+      "metadata": {},
+      "source": {
+        "name": "Open Admin Data",
+        "url": "https://openadmindata.org/pw/states/sonsorol/",
+        "api": "https://openadmindata.org/api/pw/"
+      }
+    }
+  ]
+}

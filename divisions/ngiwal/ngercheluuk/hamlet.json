@@ -1,0 +1,45 @@
+{
+  "id": "PW_ngiwal_ngercheluuk",
+  "level": 2,
+  "level_name": {
+    "local": "Hamlet",
+    "en": "Hamlet"
+  },
+  "name": {
+    "local": "Ngercheluuk",
+    "en": "Ngercheluuk",
+    "slug": "ngercheluuk"
+  },
+  "code": {
+    "id": "PW_ngiwal_ngercheluuk",
+    "iso": null
+  },
+  "parent": {
+    "id": "PW_ngiwal",
+    "level": 1,
+    "name": {
+      "local": "Ngiwal",
+      "en": "Ngiwal",
+      "slug": "ngiwal"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "PW_ngiwal",
+      "level": 1,
+      "name": {
+        "local": "Ngiwal",
+        "en": "Ngiwal",
+        "slug": "ngiwal"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "7.558",
+    "lon": "134.617"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "PW_koror_iyebukel",
+  "level": 2,
+  "level_name": {
+    "local": "Hamlet",
+    "en": "Hamlet"
+  },
+  "name": {
+    "local": "Iyebukel",
+    "en": "Iyebukel",
+    "slug": "iyebukel"
+  },
+  "code": {
+    "id": "PW_koror_iyebukel",
+    "iso": null
+  },
+  "parent": {
+    "id": "PW_koror",
+    "level": 1,
+    "name": {
+      "local": "Koror",
+      "en": "Koror",
+      "slug": "koror"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "PW_koror",
+      "level": 1,
+      "name": {
+        "local": "Koror",
+        "en": "Koror",
+        "slug": "koror"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "7.349",
+    "lon": "134.485"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "PW_koror_rock-islands",
+  "level": 2,
+  "level_name": {
+    "local": "Hamlet",
+    "en": "Hamlet"
+  },
+  "name": {
+    "local": "Rock Islands",
+    "en": "Rock Islands",
+    "slug": "rock-islands"
+  },
+  "code": {
+    "id": "PW_koror_rock-islands",
+    "iso": null
+  },
+  "parent": {
+    "id": "PW_koror",
+    "level": 1,
+    "name": {
+      "local": "Koror",
+      "en": "Koror",
+      "slug": "koror"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "PW_koror",
+      "level": 1,
+      "name": {
+        "local": "Koror",
+        "en": "Koror",
+        "slug": "koror"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "7.235",
+    "lon": "134.373"
+  },
+  "metadata": {},
+  "source": {}
+}

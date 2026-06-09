@@ -1,0 +1,33 @@
+{
+  "id": "PW_angaur",
+  "level": 1,
+  "level_name": {
+    "local": "State",
+    "en": "State"
+  },
+  "name": {
+    "local": "Angaur",
+    "en": "Angaur",
+    "slug": "angaur"
+  },
+  "code": {
+    "id": "PW_angaur",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "hamlet": 4
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "6.906",
+    "lon": "134.138"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/pw/states/angaur/",
+    "api": "https://openadmindata.org/api/pw/"
+  }
+}

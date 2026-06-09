@@ -1,0 +1,43 @@
+# Palau Administrative Divisions — Full Reference
+
+> Last updated: 2026-06-09. License: CC-BY-4.0.
+
+## Per-State Data Files
+
+- [Aimeliik](https://github.com/open-admin-data/palau-administrative-divisions/blob/main/docs/llms-full/aimeliik.txt) — 6 hamlets
+- [Airai](https://github.com/open-admin-data/palau-administrative-divisions/blob/main/docs/llms-full/airai.txt) — 6 hamlets
+- [Angaur](https://github.com/open-admin-data/palau-administrative-divisions/blob/main/docs/llms-full/angaur.txt) — 4 hamlets
+- [Hatohobei](https://github.com/open-admin-data/palau-administrative-divisions/blob/main/docs/llms-full/hatohobei.txt) — 1 hamlets
+- [Koror](https://github.com/open-admin-data/palau-administrative-divisions/blob/main/docs/llms-full/koror.txt) — 13 hamlets
+- [Melekeok](https://github.com/open-admin-data/palau-administrative-divisions/blob/main/docs/llms-full/melekeok.txt) — 8 hamlets
+- [Ngaraard](https://github.com/open-admin-data/palau-administrative-divisions/blob/main/docs/llms-full/ngaraard.txt) — 5 hamlets
+- [Ngarchelong](https://github.com/open-admin-data/palau-administrative-divisions/blob/main/docs/llms-full/ngarchelong.txt) — 8 hamlets
+- [Ngardmau](https://github.com/open-admin-data/palau-administrative-divisions/blob/main/docs/llms-full/ngardmau.txt) — 3 hamlets
+- [Ngeremlengui](https://github.com/open-admin-data/palau-administrative-divisions/blob/main/docs/llms-full/ngeremlengui.txt) — 8 hamlets
+- [Ngatpang](https://github.com/open-admin-data/palau-administrative-divisions/blob/main/docs/llms-full/ngatpang.txt) — 0 hamlets
+- [Ngchesar](https://github.com/open-admin-data/palau-administrative-divisions/blob/main/docs/llms-full/ngchesar.txt) — 4 hamlets
+- [Ngiwal](https://github.com/open-admin-data/palau-administrative-divisions/blob/main/docs/llms-full/ngiwal.txt) — 3 hamlets
+- [Peleliu](https://github.com/open-admin-data/palau-administrative-divisions/blob/main/docs/llms-full/peleliu.txt) — 5 hamlets
+- [Sonsorol](https://github.com/open-admin-data/palau-administrative-divisions/blob/main/docs/llms-full/sonsorol.txt) — 1 hamlets
+- [Kayangel](https://github.com/open-admin-data/palau-administrative-divisions/blob/main/docs/llms-full/kayangel.txt) — 2 hamlets
+
+## Summary
+
+| State | Hamlets | 
+|---|---|
+| Aimeliik | 6 | 
+| Airai | 6 | 
+| Angaur | 4 | 
+| Hatohobei | 1 | 
+| Koror | 13 | 
+| Melekeok | 8 | 
+| Ngaraard | 5 | 
+| Ngarchelong | 8 | 
+| Ngardmau | 3 | 
+| Ngeremlengui | 8 | 
+| Ngatpang | 0 | 
+| Ngchesar | 4 | 
+| Ngiwal | 3 | 
+| Peleliu | 5 | 
+| Sonsorol | 1 | 
+| Kayangel | 2 | 

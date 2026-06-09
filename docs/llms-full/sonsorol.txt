@@ -1,0 +1,14 @@
+# Sonsorol — Palau Administrative Divisions
+
+> 1 hamlets
+> Code: PW_sonsorol
+> Coordinates: 5.326, 132.223
+> Last updated: 2026-06-09. License: CC-BY-4.0.
+
+## Hamlets
+
+### Sonsorol + Pulo Anna + Merir
+
+Code: PW_sonsorol_sonsorol-pulo-anna-merir, Coordinates: 4.83, 132.131
+
+

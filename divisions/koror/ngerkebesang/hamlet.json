@@ -1,0 +1,45 @@
+{
+  "id": "PW_koror_ngerkebesang",
+  "level": 2,
+  "level_name": {
+    "local": "Hamlet",
+    "en": "Hamlet"
+  },
+  "name": {
+    "local": "Ngerkebesang",
+    "en": "Ngerkebesang",
+    "slug": "ngerkebesang"
+  },
+  "code": {
+    "id": "PW_koror_ngerkebesang",
+    "iso": null
+  },
+  "parent": {
+    "id": "PW_koror",
+    "level": 1,
+    "name": {
+      "local": "Koror",
+      "en": "Koror",
+      "slug": "koror"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "PW_koror",
+      "level": 1,
+      "name": {
+        "local": "Koror",
+        "en": "Koror",
+        "slug": "koror"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "7.354",
+    "lon": "134.446"
+  },
+  "metadata": {},
+  "source": {}
+}

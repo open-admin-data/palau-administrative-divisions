@@ -1,0 +1,33 @@
+{
+  "id": "PW_ngiwal",
+  "level": 1,
+  "level_name": {
+    "local": "State",
+    "en": "State"
+  },
+  "name": {
+    "local": "Ngiwal",
+    "en": "Ngiwal",
+    "slug": "ngiwal"
+  },
+  "code": {
+    "id": "PW_ngiwal",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "hamlet": 3
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "7.557",
+    "lon": "134.617"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/pw/states/ngiwal/",
+    "api": "https://openadmindata.org/api/pw/"
+  }
+}

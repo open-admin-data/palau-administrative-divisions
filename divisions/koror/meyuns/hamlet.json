@@ -1,0 +1,45 @@
+{
+  "id": "PW_koror_meyuns",
+  "level": 2,
+  "level_name": {
+    "local": "Hamlet",
+    "en": "Hamlet"
+  },
+  "name": {
+    "local": "Meyuns",
+    "en": "Meyuns",
+    "slug": "meyuns"
+  },
+  "code": {
+    "id": "PW_koror_meyuns",
+    "iso": null
+  },
+  "parent": {
+    "id": "PW_koror",
+    "level": 1,
+    "name": {
+      "local": "Koror",
+      "en": "Koror",
+      "slug": "koror"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "PW_koror",
+      "level": 1,
+      "name": {
+        "local": "Koror",
+        "en": "Koror",
+        "slug": "koror"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "7.354",
+    "lon": "134.458"
+  },
+  "metadata": {},
+  "source": {}
+}

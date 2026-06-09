@@ -1,0 +1,47 @@
+[
+  {
+    "id": "PW_sonsorol_sonsorol-pulo-anna-merir",
+    "level": 2,
+    "level_name": {
+      "local": "Hamlet",
+      "en": "Hamlet"
+    },
+    "name": {
+      "local": "Sonsorol + Pulo Anna + Merir",
+      "en": "Sonsorol + Pulo Anna + Merir",
+      "slug": "sonsorol-pulo-anna-merir"
+    },
+    "code": {
+      "id": "PW_sonsorol_sonsorol-pulo-anna-merir",
+      "iso": null
+    },
+    "parent": {
+      "id": "PW_sonsorol",
+      "level": 1,
+      "name": {
+        "local": "Sonsorol",
+        "en": "Sonsorol",
+        "slug": "sonsorol"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PW_sonsorol",
+        "level": 1,
+        "name": {
+          "local": "Sonsorol",
+          "en": "Sonsorol",
+          "slug": "sonsorol"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.83",
+      "lon": "132.131"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

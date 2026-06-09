@@ -1,0 +1,19 @@
+# Kayangel — Palau Administrative Divisions
+
+> 2 hamlets
+> Code: PW_kayangel
+> Coordinates: 8.082, 134.717
+> Last updated: 2026-06-09. License: CC-BY-4.0.
+
+## Hamlets
+
+### Dilong
+
+Code: PW_kayangel_dilong, Coordinates: 8.088, 134.717
+
+
+### Dimes
+
+Code: PW_kayangel_dimes, Coordinates: 8.077, 134.718
+
+

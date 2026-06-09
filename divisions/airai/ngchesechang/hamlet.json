@@ -1,0 +1,45 @@
+{
+  "id": "PW_airai_ngchesechang",
+  "level": 2,
+  "level_name": {
+    "local": "Hamlet",
+    "en": "Hamlet"
+  },
+  "name": {
+    "local": "Ngchesechang",
+    "en": "Ngchesechang",
+    "slug": "ngchesechang"
+  },
+  "code": {
+    "id": "PW_airai_ngchesechang",
+    "iso": null
+  },
+  "parent": {
+    "id": "PW_airai",
+    "level": 1,
+    "name": {
+      "local": "Airai",
+      "en": "Airai",
+      "slug": "airai"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "PW_airai",
+      "level": 1,
+      "name": {
+        "local": "Airai",
+        "en": "Airai",
+        "slug": "airai"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "7.399",
+    "lon": "134.563"
+  },
+  "metadata": {},
+  "source": {}
+}

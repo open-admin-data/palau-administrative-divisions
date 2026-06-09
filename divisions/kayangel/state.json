@@ -1,0 +1,33 @@
+{
+  "id": "PW_kayangel",
+  "level": 1,
+  "level_name": {
+    "local": "State",
+    "en": "State"
+  },
+  "name": {
+    "local": "Kayangel",
+    "en": "Kayangel",
+    "slug": "kayangel"
+  },
+  "code": {
+    "id": "PW_kayangel",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "hamlet": 2
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "8.082",
+    "lon": "134.717"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/pw/states/kayangel/",
+    "api": "https://openadmindata.org/api/pw/"
+  }
+}

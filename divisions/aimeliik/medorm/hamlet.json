@@ -1,0 +1,45 @@
+{
+  "id": "PW_aimeliik_medorm",
+  "level": 2,
+  "level_name": {
+    "local": "Hamlet",
+    "en": "Hamlet"
+  },
+  "name": {
+    "local": "Medorm",
+    "en": "Medorm",
+    "slug": "medorm"
+  },
+  "code": {
+    "id": "PW_aimeliik_medorm",
+    "iso": null
+  },
+  "parent": {
+    "id": "PW_aimeliik",
+    "level": 1,
+    "name": {
+      "local": "Aimeliik",
+      "en": "Aimeliik",
+      "slug": "aimeliik"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "PW_aimeliik",
+      "level": 1,
+      "name": {
+        "local": "Aimeliik",
+        "en": "Aimeliik",
+        "slug": "aimeliik"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "7.466",
+    "lon": "134.493"
+  },
+  "metadata": {},
+  "source": {}
+}

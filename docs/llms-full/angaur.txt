@@ -1,0 +1,29 @@
+# Angaur — Palau Administrative Divisions
+
+> 4 hamlets
+> Code: PW_angaur
+> Coordinates: 6.906, 134.138
+> Last updated: 2026-06-09. License: CC-BY-4.0.
+
+## Hamlets
+
+### Ngebeianged
+
+Code: PW_angaur_ngebeianged, Coordinates: 6.918, 134.134
+
+
+### Ngerbelau
+
+Code: PW_angaur_ngerbelau, Coordinates: 6.91, 134.145
+
+
+### Ngermasech
+
+Code: PW_angaur_ngermasech, Coordinates: 6.897, 134.133
+
+
+### Rois
+
+Code: PW_angaur_rois, Coordinates: 6.908, 134.134
+
+

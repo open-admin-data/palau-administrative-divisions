@@ -1,0 +1,14 @@
+# Hatohobei — Palau Administrative Divisions
+
+> 1 hamlets
+> Code: PW_hatohobei
+> Coordinates: 2.908, 131.482
+> Last updated: 2026-06-09. License: CC-BY-4.0.
+
+## Hamlets
+
+### Hatohobei + Helens Reef
+
+Code: PW_hatohobei_hatohobei-helens-reef, Coordinates: 3.006, 131.124
+
+

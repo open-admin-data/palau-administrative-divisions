@@ -1,0 +1,34 @@
+# Ngaraard — Palau Administrative Divisions
+
+> 5 hamlets
+> Code: PW_ngaraard
+> Coordinates: 7.629, 134.621
+> Last updated: 2026-06-09. License: CC-BY-4.0.
+
+## Hamlets
+
+### Chelab
+
+Code: PW_ngaraard_chelab, Coordinates: 7.643, 134.642
+
+
+### Choll
+
+Code: PW_ngaraard_choll, Coordinates: 7.673, 134.634
+
+
+### Ngebuked
+
+Code: PW_ngaraard_ngebuked, Coordinates: 7.627, 134.619
+
+
+### Ngkeklau
+
+Code: PW_ngaraard_ngkeklau, Coordinates: 7.588, 134.62
+
+
+### Ulimang
+
+Code: PW_ngaraard_ulimang, Coordinates: 7.614, 134.631
+
+

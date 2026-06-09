@@ -1,0 +1,49 @@
+# Ngarchelong — Palau Administrative Divisions
+
+> 8 hamlets
+> Code: PW_ngarchelong
+> Coordinates: 7.708, 134.627
+> Last updated: 2026-06-09. License: CC-BY-4.0.
+
+## Hamlets
+
+### Badrulchau
+
+Code: PW_ngarchelong_badrulchau, Coordinates: 7.709, 134.635
+
+
+### Iebukel
+
+Code: PW_ngarchelong_iebukel, Coordinates: 7.699, 134.64
+
+
+### Mengellang
+
+Code: PW_ngarchelong_mengellang, Coordinates: 7.695, 134.632
+
+
+### Ngebei
+
+Code: PW_ngarchelong_ngebei, Coordinates: 7.697, 134.638
+
+
+### Ngebei
+
+Code: PW_ngarchelong_ngebei, Coordinates: 7.688, 134.635
+
+
+### Ngeiungel
+
+Code: PW_ngarchelong_ngeiungel, Coordinates: 7.699, 134.624
+
+
+### Ngerbau
+
+Code: PW_ngarchelong_ngerbau, Coordinates: 7.703, 134.642
+
+
+### Ollei
+
+Code: PW_ngarchelong_ollei, Coordinates: 7.719, 134.619
+
+

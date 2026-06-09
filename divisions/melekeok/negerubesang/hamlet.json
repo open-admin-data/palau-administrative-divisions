@@ -1,0 +1,45 @@
+{
+  "id": "PW_melekeok_negerubesang",
+  "level": 2,
+  "level_name": {
+    "local": "Hamlet",
+    "en": "Hamlet"
+  },
+  "name": {
+    "local": "Negerubesang",
+    "en": "Negerubesang",
+    "slug": "negerubesang"
+  },
+  "code": {
+    "id": "PW_melekeok_negerubesang",
+    "iso": null
+  },
+  "parent": {
+    "id": "PW_melekeok",
+    "level": 1,
+    "name": {
+      "local": "Melekeok",
+      "en": "Melekeok",
+      "slug": "melekeok"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "PW_melekeok",
+      "level": 1,
+      "name": {
+        "local": "Melekeok",
+        "en": "Melekeok",
+        "slug": "melekeok"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "7.491",
+    "lon": "134.622"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,362 @@
+[
+  {
+    "id": "PW_ngarchelong_badrulchau",
+    "level": 2,
+    "level_name": {
+      "local": "Hamlet",
+      "en": "Hamlet"
+    },
+    "name": {
+      "local": "Badrulchau",
+      "en": "Badrulchau",
+      "slug": "badrulchau"
+    },
+    "code": {
+      "id": "PW_ngarchelong_badrulchau",
+      "iso": null
+    },
+    "parent": {
+      "id": "PW_ngarchelong",
+      "level": 1,
+      "name": {
+        "local": "Ngarchelong",
+        "en": "Ngarchelong",
+        "slug": "ngarchelong"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PW_ngarchelong",
+        "level": 1,
+        "name": {
+          "local": "Ngarchelong",
+          "en": "Ngarchelong",
+          "slug": "ngarchelong"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.709",
+      "lon": "134.635"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PW_ngarchelong_iebukel",
+    "level": 2,
+    "level_name": {
+      "local": "Hamlet",
+      "en": "Hamlet"
+    },
+    "name": {
+      "local": "Iebukel",
+      "en": "Iebukel",
+      "slug": "iebukel"
+    },
+    "code": {
+      "id": "PW_ngarchelong_iebukel",
+      "iso": null
+    },
+    "parent": {
+      "id": "PW_ngarchelong",
+      "level": 1,
+      "name": {
+        "local": "Ngarchelong",
+        "en": "Ngarchelong",
+        "slug": "ngarchelong"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PW_ngarchelong",
+        "level": 1,
+        "name": {
+          "local": "Ngarchelong",
+          "en": "Ngarchelong",
+          "slug": "ngarchelong"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.699",
+      "lon": "134.64"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PW_ngarchelong_mengellang",
+    "level": 2,
+    "level_name": {
+      "local": "Hamlet",
+      "en": "Hamlet"
+    },
+    "name": {
+      "local": "Mengellang",
+      "en": "Mengellang",
+      "slug": "mengellang"
+    },
+    "code": {
+      "id": "PW_ngarchelong_mengellang",
+      "iso": null
+    },
+    "parent": {
+      "id": "PW_ngarchelong",
+      "level": 1,
+      "name": {
+        "local": "Ngarchelong",
+        "en": "Ngarchelong",
+        "slug": "ngarchelong"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PW_ngarchelong",
+        "level": 1,
+        "name": {
+          "local": "Ngarchelong",
+          "en": "Ngarchelong",
+          "slug": "ngarchelong"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.695",
+      "lon": "134.632"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PW_ngarchelong_ngebei",
+    "level": 2,
+    "level_name": {
+      "local": "Hamlet",
+      "en": "Hamlet"
+    },
+    "name": {
+      "local": "Ngebei",
+      "en": "Ngebei",
+      "slug": "ngebei"
+    },
+    "code": {
+      "id": "PW_ngarchelong_ngebei",
+      "iso": null
+    },
+    "parent": {
+      "id": "PW_ngarchelong",
+      "level": 1,
+      "name": {
+        "local": "Ngarchelong",
+        "en": "Ngarchelong",
+        "slug": "ngarchelong"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PW_ngarchelong",
+        "level": 1,
+        "name": {
+          "local": "Ngarchelong",
+          "en": "Ngarchelong",
+          "slug": "ngarchelong"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.697",
+      "lon": "134.638"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PW_ngarchelong_ngebei",
+    "level": 2,
+    "level_name": {
+      "local": "Hamlet",
+      "en": "Hamlet"
+    },
+    "name": {
+      "local": "Ngebei",
+      "en": "Ngebei",
+      "slug": "ngebei"
+    },
+    "code": {
+      "id": "PW_ngarchelong_ngebei",
+      "iso": null
+    },
+    "parent": {
+      "id": "PW_ngarchelong",
+      "level": 1,
+      "name": {
+        "local": "Ngarchelong",
+        "en": "Ngarchelong",
+        "slug": "ngarchelong"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PW_ngarchelong",
+        "level": 1,
+        "name": {
+          "local": "Ngarchelong",
+          "en": "Ngarchelong",
+          "slug": "ngarchelong"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.688",
+      "lon": "134.635"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PW_ngarchelong_ngeiungel",
+    "level": 2,
+    "level_name": {
+      "local": "Hamlet",
+      "en": "Hamlet"
+    },
+    "name": {
+      "local": "Ngeiungel",
+      "en": "Ngeiungel",
+      "slug": "ngeiungel"
+    },
+    "code": {
+      "id": "PW_ngarchelong_ngeiungel",
+      "iso": null
+    },
+    "parent": {
+      "id": "PW_ngarchelong",
+      "level": 1,
+      "name": {
+        "local": "Ngarchelong",
+        "en": "Ngarchelong",
+        "slug": "ngarchelong"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PW_ngarchelong",
+        "level": 1,
+        "name": {
+          "local": "Ngarchelong",
+          "en": "Ngarchelong",
+          "slug": "ngarchelong"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.699",
+      "lon": "134.624"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PW_ngarchelong_ngerbau",
+    "level": 2,
+    "level_name": {
+      "local": "Hamlet",
+      "en": "Hamlet"
+    },
+    "name": {
+      "local": "Ngerbau",
+      "en": "Ngerbau",
+      "slug": "ngerbau"
+    },
+    "code": {
+      "id": "PW_ngarchelong_ngerbau",
+      "iso": null
+    },
+    "parent": {
+      "id": "PW_ngarchelong",
+      "level": 1,
+      "name": {
+        "local": "Ngarchelong",
+        "en": "Ngarchelong",
+        "slug": "ngarchelong"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PW_ngarchelong",
+        "level": 1,
+        "name": {
+          "local": "Ngarchelong",
+          "en": "Ngarchelong",
+          "slug": "ngarchelong"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.703",
+      "lon": "134.642"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PW_ngarchelong_ollei",
+    "level": 2,
+    "level_name": {
+      "local": "Hamlet",
+      "en": "Hamlet"
+    },
+    "name": {
+      "local": "Ollei",
+      "en": "Ollei",
+      "slug": "ollei"
+    },
+    "code": {
+      "id": "PW_ngarchelong_ollei",
+      "iso": null
+    },
+    "parent": {
+      "id": "PW_ngarchelong",
+      "level": 1,
+      "name": {
+        "local": "Ngarchelong",
+        "en": "Ngarchelong",
+        "slug": "ngarchelong"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PW_ngarchelong",
+        "level": 1,
+        "name": {
+          "local": "Ngarchelong",
+          "en": "Ngarchelong",
+          "slug": "ngarchelong"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.719",
+      "lon": "134.619"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

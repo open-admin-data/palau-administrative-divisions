@@ -1,0 +1,39 @@
+# Aimeliik — Palau Administrative Divisions
+
+> 6 hamlets
+> Code: PW_aimeliik
+> Coordinates: 7.438, 134.501
+> Last updated: 2026-06-09. License: CC-BY-4.0.
+
+## Hamlets
+
+### Elechui
+
+Code: PW_aimeliik_elechui, Coordinates: 7.438, 134.494
+
+
+### Imul
+
+Code: PW_aimeliik_imul, Coordinates: 7.414, 134.517
+
+
+### Medorm
+
+Code: PW_aimeliik_medorm, Coordinates: 7.466, 134.493
+
+
+### Ngatpang
+
+Code: PW_aimeliik_ngatpang, Coordinates: 7.458, 134.52
+
+
+### Ngchemiangel
+
+Code: PW_aimeliik_ngchemiangel, Coordinates: 7.454, 134.491
+
+
+### Ngerkeai
+
+Code: PW_aimeliik_ngerkeai, Coordinates: 7.436, 134.509
+
+

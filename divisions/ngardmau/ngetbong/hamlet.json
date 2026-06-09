@@ -1,0 +1,45 @@
+{
+  "id": "PW_ngardmau_ngetbong",
+  "level": 2,
+  "level_name": {
+    "local": "Hamlet",
+    "en": "Hamlet"
+  },
+  "name": {
+    "local": "Ngetbong",
+    "en": "Ngetbong",
+    "slug": "ngetbong"
+  },
+  "code": {
+    "id": "PW_ngardmau_ngetbong",
+    "iso": null
+  },
+  "parent": {
+    "id": "PW_ngardmau",
+    "level": 1,
+    "name": {
+      "local": "Ngardmau",
+      "en": "Ngardmau",
+      "slug": "ngardmau"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "PW_ngardmau",
+      "level": 1,
+      "name": {
+        "local": "Ngardmau",
+        "en": "Ngardmau",
+        "slug": "ngardmau"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "7.586",
+    "lon": "134.567"
+  },
+  "metadata": {},
+  "source": {}
+}

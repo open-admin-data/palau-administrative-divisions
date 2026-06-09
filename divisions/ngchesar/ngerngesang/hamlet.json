@@ -1,0 +1,45 @@
+{
+  "id": "PW_ngchesar_ngerngesang",
+  "level": 2,
+  "level_name": {
+    "local": "Hamlet",
+    "en": "Hamlet"
+  },
+  "name": {
+    "local": "Ngerngesang",
+    "en": "Ngerngesang",
+    "slug": "ngerngesang"
+  },
+  "code": {
+    "id": "PW_ngchesar_ngerngesang",
+    "iso": null
+  },
+  "parent": {
+    "id": "PW_ngchesar",
+    "level": 1,
+    "name": {
+      "local": "Ngchesar",
+      "en": "Ngchesar",
+      "slug": "ngchesar"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "PW_ngchesar",
+      "level": 1,
+      "name": {
+        "local": "Ngchesar",
+        "en": "Ngchesar",
+        "slug": "ngchesar"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "7.453",
+    "lon": "134.585"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,49 @@
+# Melekeok — Palau Administrative Divisions
+
+> 8 hamlets
+> Code: PW_melekeok
+> Coordinates: 7.512, 134.605
+> Last updated: 2026-06-09. License: CC-BY-4.0.
+
+## Hamlets
+
+### Melekeok
+
+Code: PW_melekeok_melekeok, Coordinates: 7.509, 134.599
+
+
+### Negerubesang
+
+Code: PW_melekeok_negerubesang, Coordinates: 7.491, 134.622
+
+
+### Ngeburch
+
+Code: PW_melekeok_ngeburch, Coordinates: 7.51, 134.625
+
+
+### Ngerang
+
+Code: PW_melekeok_ngerang, Coordinates: 7.497, 134.635
+
+
+### Ngermechau
+
+Code: PW_melekeok_ngermechau, Coordinates: 7.54, 134.617
+
+
+### Ngermelech
+
+Code: PW_melekeok_ngermelech, Coordinates: 7.502, 134.63
+
+
+### Ngeruliang
+
+Code: PW_melekeok_ngeruliang, Coordinates: 7.506, 134.628
+
+
+### Ukaeb
+
+Code: PW_melekeok_ukaeb, Coordinates: 7.496, 134.632
+
+

@@ -1,0 +1,24 @@
+# Ngardmau — Palau Administrative Divisions
+
+> 3 hamlets
+> Code: PW_ngardmau
+> Coordinates: 7.591, 134.568
+> Last updated: 2026-06-09. License: CC-BY-4.0.
+
+## Hamlets
+
+### Ngerutoi
+
+Code: PW_ngardmau_ngerutoi, Coordinates: 7.597, 134.587
+
+
+### Ngetbong
+
+Code: PW_ngardmau_ngetbong, Coordinates: 7.586, 134.567
+
+
+### Urdmau
+
+Code: PW_ngardmau_urdmau, Coordinates: 7.601, 134.591
+
+

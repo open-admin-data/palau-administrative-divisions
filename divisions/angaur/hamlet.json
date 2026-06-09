@@ -1,0 +1,182 @@
+[
+  {
+    "id": "PW_angaur_ngebeianged",
+    "level": 2,
+    "level_name": {
+      "local": "Hamlet",
+      "en": "Hamlet"
+    },
+    "name": {
+      "local": "Ngebeianged",
+      "en": "Ngebeianged",
+      "slug": "ngebeianged"
+    },
+    "code": {
+      "id": "PW_angaur_ngebeianged",
+      "iso": null
+    },
+    "parent": {
+      "id": "PW_angaur",
+      "level": 1,
+      "name": {
+        "local": "Angaur",
+        "en": "Angaur",
+        "slug": "angaur"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PW_angaur",
+        "level": 1,
+        "name": {
+          "local": "Angaur",
+          "en": "Angaur",
+          "slug": "angaur"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.918",
+      "lon": "134.134"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PW_angaur_ngerbelau",
+    "level": 2,
+    "level_name": {
+      "local": "Hamlet",
+      "en": "Hamlet"
+    },
+    "name": {
+      "local": "Ngerbelau",
+      "en": "Ngerbelau",
+      "slug": "ngerbelau"
+    },
+    "code": {
+      "id": "PW_angaur_ngerbelau",
+      "iso": null
+    },
+    "parent": {
+      "id": "PW_angaur",
+      "level": 1,
+      "name": {
+        "local": "Angaur",
+        "en": "Angaur",
+        "slug": "angaur"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PW_angaur",
+        "level": 1,
+        "name": {
+          "local": "Angaur",
+          "en": "Angaur",
+          "slug": "angaur"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.91",
+      "lon": "134.145"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PW_angaur_ngermasech",
+    "level": 2,
+    "level_name": {
+      "local": "Hamlet",
+      "en": "Hamlet"
+    },
+    "name": {
+      "local": "Ngermasech",
+      "en": "Ngermasech",
+      "slug": "ngermasech"
+    },
+    "code": {
+      "id": "PW_angaur_ngermasech",
+      "iso": null
+    },
+    "parent": {
+      "id": "PW_angaur",
+      "level": 1,
+      "name": {
+        "local": "Angaur",
+        "en": "Angaur",
+        "slug": "angaur"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PW_angaur",
+        "level": 1,
+        "name": {
+          "local": "Angaur",
+          "en": "Angaur",
+          "slug": "angaur"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.897",
+      "lon": "134.133"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PW_angaur_rois",
+    "level": 2,
+    "level_name": {
+      "local": "Hamlet",
+      "en": "Hamlet"
+    },
+    "name": {
+      "local": "Rois",
+      "en": "Rois",
+      "slug": "rois"
+    },
+    "code": {
+      "id": "PW_angaur_rois",
+      "iso": null
+    },
+    "parent": {
+      "id": "PW_angaur",
+      "level": 1,
+      "name": {
+        "local": "Angaur",
+        "en": "Angaur",
+        "slug": "angaur"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PW_angaur",
+        "level": 1,
+        "name": {
+          "local": "Angaur",
+          "en": "Angaur",
+          "slug": "angaur"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.908",
+      "lon": "134.134"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

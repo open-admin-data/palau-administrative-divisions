@@ -1,0 +1,45 @@
+{
+  "id": "PW_ngaraard_ngebuked",
+  "level": 2,
+  "level_name": {
+    "local": "Hamlet",
+    "en": "Hamlet"
+  },
+  "name": {
+    "local": "Ngebuked",
+    "en": "Ngebuked",
+    "slug": "ngebuked"
+  },
+  "code": {
+    "id": "PW_ngaraard_ngebuked",
+    "iso": null
+  },
+  "parent": {
+    "id": "PW_ngaraard",
+    "level": 1,
+    "name": {
+      "local": "Ngaraard",
+      "en": "Ngaraard",
+      "slug": "ngaraard"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "PW_ngaraard",
+      "level": 1,
+      "name": {
+        "local": "Ngaraard",
+        "en": "Ngaraard",
+        "slug": "ngaraard"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "7.627",
+    "lon": "134.619"
+  },
+  "metadata": {},
+  "source": {}
+}

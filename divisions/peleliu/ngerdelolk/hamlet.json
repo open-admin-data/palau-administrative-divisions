@@ -1,0 +1,45 @@
+{
+  "id": "PW_peleliu_ngerdelolk",
+  "level": 2,
+  "level_name": {
+    "local": "Hamlet",
+    "en": "Hamlet"
+  },
+  "name": {
+    "local": "Ngerdelolk",
+    "en": "Ngerdelolk",
+    "slug": "ngerdelolk"
+  },
+  "code": {
+    "id": "PW_peleliu_ngerdelolk",
+    "iso": null
+  },
+  "parent": {
+    "id": "PW_peleliu",
+    "level": 1,
+    "name": {
+      "local": "Peleliu",
+      "en": "Peleliu",
+      "slug": "peleliu"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "PW_peleliu",
+      "level": 1,
+      "name": {
+        "local": "Peleliu",
+        "en": "Peleliu",
+        "slug": "peleliu"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "7.007",
+    "lon": "134.258"
+  },
+  "metadata": {},
+  "source": {}
+}

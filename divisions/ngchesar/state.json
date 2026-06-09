@@ -1,0 +1,33 @@
+{
+  "id": "PW_ngchesar",
+  "level": 1,
+  "level_name": {
+    "local": "State",
+    "en": "State"
+  },
+  "name": {
+    "local": "Ngchesar",
+    "en": "Ngchesar",
+    "slug": "ngchesar"
+  },
+  "code": {
+    "id": "PW_ngchesar",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "hamlet": 4
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "7.458",
+    "lon": "134.588"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/pw/states/ngchesar/",
+    "api": "https://openadmindata.org/api/pw/"
+  }
+}

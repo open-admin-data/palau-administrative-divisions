@@ -1,0 +1,45 @@
+{
+  "id": "PW_ngchesar_ngeruikl",
+  "level": 2,
+  "level_name": {
+    "local": "Hamlet",
+    "en": "Hamlet"
+  },
+  "name": {
+    "local": "Ngeruikl",
+    "en": "Ngeruikl",
+    "slug": "ngeruikl"
+  },
+  "code": {
+    "id": "PW_ngchesar_ngeruikl",
+    "iso": null
+  },
+  "parent": {
+    "id": "PW_ngchesar",
+    "level": 1,
+    "name": {
+      "local": "Ngchesar",
+      "en": "Ngchesar",
+      "slug": "ngchesar"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "PW_ngchesar",
+      "level": 1,
+      "name": {
+        "local": "Ngchesar",
+        "en": "Ngchesar",
+        "slug": "ngchesar"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "7.484",
+    "lon": "134.611"
+  },
+  "metadata": {},
+  "source": {}
+}

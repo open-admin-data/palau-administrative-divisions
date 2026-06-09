@@ -1,0 +1,45 @@
+{
+  "id": "PW_angaur_ngermasech",
+  "level": 2,
+  "level_name": {
+    "local": "Hamlet",
+    "en": "Hamlet"
+  },
+  "name": {
+    "local": "Ngermasech",
+    "en": "Ngermasech",
+    "slug": "ngermasech"
+  },
+  "code": {
+    "id": "PW_angaur_ngermasech",
+    "iso": null
+  },
+  "parent": {
+    "id": "PW_angaur",
+    "level": 1,
+    "name": {
+      "local": "Angaur",
+      "en": "Angaur",
+      "slug": "angaur"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "PW_angaur",
+      "level": 1,
+      "name": {
+        "local": "Angaur",
+        "en": "Angaur",
+        "slug": "angaur"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "6.897",
+    "lon": "134.133"
+  },
+  "metadata": {},
+  "source": {}
+}

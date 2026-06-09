@@ -1,0 +1,45 @@
+{
+  "id": "PW_aimeliik_ngchemiangel",
+  "level": 2,
+  "level_name": {
+    "local": "Hamlet",
+    "en": "Hamlet"
+  },
+  "name": {
+    "local": "Ngchemiangel",
+    "en": "Ngchemiangel",
+    "slug": "ngchemiangel"
+  },
+  "code": {
+    "id": "PW_aimeliik_ngchemiangel",
+    "iso": null
+  },
+  "parent": {
+    "id": "PW_aimeliik",
+    "level": 1,
+    "name": {
+      "local": "Aimeliik",
+      "en": "Aimeliik",
+      "slug": "aimeliik"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "PW_aimeliik",
+      "level": 1,
+      "name": {
+        "local": "Aimeliik",
+        "en": "Aimeliik",
+        "slug": "aimeliik"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "7.454",
+    "lon": "134.491"
+  },
+  "metadata": {},
+  "source": {}
+}

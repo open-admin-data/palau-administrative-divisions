@@ -1,0 +1,45 @@
+{
+  "id": "PW_aimeliik_imul",
+  "level": 2,
+  "level_name": {
+    "local": "Hamlet",
+    "en": "Hamlet"
+  },
+  "name": {
+    "local": "Imul",
+    "en": "Imul",
+    "slug": "imul"
+  },
+  "code": {
+    "id": "PW_aimeliik_imul",
+    "iso": null
+  },
+  "parent": {
+    "id": "PW_aimeliik",
+    "level": 1,
+    "name": {
+      "local": "Aimeliik",
+      "en": "Aimeliik",
+      "slug": "aimeliik"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "PW_aimeliik",
+      "level": 1,
+      "name": {
+        "local": "Aimeliik",
+        "en": "Aimeliik",
+        "slug": "aimeliik"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "7.414",
+    "lon": "134.517"
+  },
+  "metadata": {},
+  "source": {}
+}

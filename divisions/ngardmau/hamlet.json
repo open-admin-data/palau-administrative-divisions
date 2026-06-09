@@ -1,0 +1,137 @@
+[
+  {
+    "id": "PW_ngardmau_ngerutoi",
+    "level": 2,
+    "level_name": {
+      "local": "Hamlet",
+      "en": "Hamlet"
+    },
+    "name": {
+      "local": "Ngerutoi",
+      "en": "Ngerutoi",
+      "slug": "ngerutoi"
+    },
+    "code": {
+      "id": "PW_ngardmau_ngerutoi",
+      "iso": null
+    },
+    "parent": {
+      "id": "PW_ngardmau",
+      "level": 1,
+      "name": {
+        "local": "Ngardmau",
+        "en": "Ngardmau",
+        "slug": "ngardmau"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PW_ngardmau",
+        "level": 1,
+        "name": {
+          "local": "Ngardmau",
+          "en": "Ngardmau",
+          "slug": "ngardmau"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.597",
+      "lon": "134.587"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PW_ngardmau_ngetbong",
+    "level": 2,
+    "level_name": {
+      "local": "Hamlet",
+      "en": "Hamlet"
+    },
+    "name": {
+      "local": "Ngetbong",
+      "en": "Ngetbong",
+      "slug": "ngetbong"
+    },
+    "code": {
+      "id": "PW_ngardmau_ngetbong",
+      "iso": null
+    },
+    "parent": {
+      "id": "PW_ngardmau",
+      "level": 1,
+      "name": {
+        "local": "Ngardmau",
+        "en": "Ngardmau",
+        "slug": "ngardmau"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PW_ngardmau",
+        "level": 1,
+        "name": {
+          "local": "Ngardmau",
+          "en": "Ngardmau",
+          "slug": "ngardmau"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.586",
+      "lon": "134.567"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PW_ngardmau_urdmau",
+    "level": 2,
+    "level_name": {
+      "local": "Hamlet",
+      "en": "Hamlet"
+    },
+    "name": {
+      "local": "Urdmau",
+      "en": "Urdmau",
+      "slug": "urdmau"
+    },
+    "code": {
+      "id": "PW_ngardmau_urdmau",
+      "iso": null
+    },
+    "parent": {
+      "id": "PW_ngardmau",
+      "level": 1,
+      "name": {
+        "local": "Ngardmau",
+        "en": "Ngardmau",
+        "slug": "ngardmau"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PW_ngardmau",
+        "level": 1,
+        "name": {
+          "local": "Ngardmau",
+          "en": "Ngardmau",
+          "slug": "ngardmau"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.601",
+      "lon": "134.591"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

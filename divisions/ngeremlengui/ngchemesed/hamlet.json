@@ -1,0 +1,45 @@
+{
+  "id": "PW_ngeremlengui_ngchemesed",
+  "level": 2,
+  "level_name": {
+    "local": "Hamlet",
+    "en": "Hamlet"
+  },
+  "name": {
+    "local": "Ngchemesed",
+    "en": "Ngchemesed",
+    "slug": "ngchemesed"
+  },
+  "code": {
+    "id": "PW_ngeremlengui_ngchemesed",
+    "iso": null
+  },
+  "parent": {
+    "id": "PW_ngeremlengui",
+    "level": 1,
+    "name": {
+      "local": "Ngeremlengui",
+      "en": "Ngeremlengui",
+      "slug": "ngeremlengui"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "PW_ngeremlengui",
+      "level": 1,
+      "name": {
+        "local": "Ngeremlengui",
+        "en": "Ngeremlengui",
+        "slug": "ngeremlengui"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "7.511",
+    "lon": "134.502"
+  },
+  "metadata": {},
+  "source": {}
+}

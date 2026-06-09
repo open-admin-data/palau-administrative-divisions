@@ -1,0 +1,362 @@
+[
+  {
+    "id": "PW_ngeremlengui_ibobang",
+    "level": 2,
+    "level_name": {
+      "local": "Hamlet",
+      "en": "Hamlet"
+    },
+    "name": {
+      "local": "Ibobang",
+      "en": "Ibobang",
+      "slug": "ibobang"
+    },
+    "code": {
+      "id": "PW_ngeremlengui_ibobang",
+      "iso": null
+    },
+    "parent": {
+      "id": "PW_ngeremlengui",
+      "level": 1,
+      "name": {
+        "local": "Ngeremlengui",
+        "en": "Ngeremlengui",
+        "slug": "ngeremlengui"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PW_ngeremlengui",
+        "level": 1,
+        "name": {
+          "local": "Ngeremlengui",
+          "en": "Ngeremlengui",
+          "slug": "ngeremlengui"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.483",
+      "lon": "134.541"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PW_ngeremlengui_imeong",
+    "level": 2,
+    "level_name": {
+      "local": "Hamlet",
+      "en": "Hamlet"
+    },
+    "name": {
+      "local": "Imeong",
+      "en": "Imeong",
+      "slug": "imeong"
+    },
+    "code": {
+      "id": "PW_ngeremlengui_imeong",
+      "iso": null
+    },
+    "parent": {
+      "id": "PW_ngeremlengui",
+      "level": 1,
+      "name": {
+        "local": "Ngeremlengui",
+        "en": "Ngeremlengui",
+        "slug": "ngeremlengui"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PW_ngeremlengui",
+        "level": 1,
+        "name": {
+          "local": "Ngeremlengui",
+          "en": "Ngeremlengui",
+          "slug": "ngeremlengui"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.531",
+      "lon": "134.514"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PW_ngeremlengui_ngchemesed",
+    "level": 2,
+    "level_name": {
+      "local": "Hamlet",
+      "en": "Hamlet"
+    },
+    "name": {
+      "local": "Ngchemesed",
+      "en": "Ngchemesed",
+      "slug": "ngchemesed"
+    },
+    "code": {
+      "id": "PW_ngeremlengui_ngchemesed",
+      "iso": null
+    },
+    "parent": {
+      "id": "PW_ngeremlengui",
+      "level": 1,
+      "name": {
+        "local": "Ngeremlengui",
+        "en": "Ngeremlengui",
+        "slug": "ngeremlengui"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PW_ngeremlengui",
+        "level": 1,
+        "name": {
+          "local": "Ngeremlengui",
+          "en": "Ngeremlengui",
+          "slug": "ngeremlengui"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.511",
+      "lon": "134.502"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PW_ngeremlengui_ngchesar",
+    "level": 2,
+    "level_name": {
+      "local": "Hamlet",
+      "en": "Hamlet"
+    },
+    "name": {
+      "local": "Ngchesar",
+      "en": "Ngchesar",
+      "slug": "ngchesar"
+    },
+    "code": {
+      "id": "PW_ngeremlengui_ngchesar",
+      "iso": null
+    },
+    "parent": {
+      "id": "PW_ngeremlengui",
+      "level": 1,
+      "name": {
+        "local": "Ngeremlengui",
+        "en": "Ngeremlengui",
+        "slug": "ngeremlengui"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PW_ngeremlengui",
+        "level": 1,
+        "name": {
+          "local": "Ngeremlengui",
+          "en": "Ngeremlengui",
+          "slug": "ngeremlengui"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.473",
+      "lon": "134.589"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PW_ngeremlengui_ngereklengon",
+    "level": 2,
+    "level_name": {
+      "local": "Hamlet",
+      "en": "Hamlet"
+    },
+    "name": {
+      "local": "Ngereklengon",
+      "en": "Ngereklengon",
+      "slug": "ngereklengon"
+    },
+    "code": {
+      "id": "PW_ngeremlengui_ngereklengon",
+      "iso": null
+    },
+    "parent": {
+      "id": "PW_ngeremlengui",
+      "level": 1,
+      "name": {
+        "local": "Ngeremlengui",
+        "en": "Ngeremlengui",
+        "slug": "ngeremlengui"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PW_ngeremlengui",
+        "level": 1,
+        "name": {
+          "local": "Ngeremlengui",
+          "en": "Ngeremlengui",
+          "slug": "ngeremlengui"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.51",
+      "lon": "134.514"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PW_ngeremlengui_ngeriungs",
+    "level": 2,
+    "level_name": {
+      "local": "Hamlet",
+      "en": "Hamlet"
+    },
+    "name": {
+      "local": "Ngeriungs",
+      "en": "Ngeriungs",
+      "slug": "ngeriungs"
+    },
+    "code": {
+      "id": "PW_ngeremlengui_ngeriungs",
+      "iso": null
+    },
+    "parent": {
+      "id": "PW_ngeremlengui",
+      "level": 1,
+      "name": {
+        "local": "Ngeremlengui",
+        "en": "Ngeremlengui",
+        "slug": "ngeremlengui"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PW_ngeremlengui",
+        "level": 1,
+        "name": {
+          "local": "Ngeremlengui",
+          "en": "Ngeremlengui",
+          "slug": "ngeremlengui"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.483",
+      "lon": "134.594"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PW_ngeremlengui_ngermetengel",
+    "level": 2,
+    "level_name": {
+      "local": "Hamlet",
+      "en": "Hamlet"
+    },
+    "name": {
+      "local": "Ngermetengel",
+      "en": "Ngermetengel",
+      "slug": "ngermetengel"
+    },
+    "code": {
+      "id": "PW_ngeremlengui_ngermetengel",
+      "iso": null
+    },
+    "parent": {
+      "id": "PW_ngeremlengui",
+      "level": 1,
+      "name": {
+        "local": "Ngeremlengui",
+        "en": "Ngeremlengui",
+        "slug": "ngeremlengui"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PW_ngeremlengui",
+        "level": 1,
+        "name": {
+          "local": "Ngeremlengui",
+          "en": "Ngeremlengui",
+          "slug": "ngeremlengui"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.522",
+      "lon": "134.507"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PW_ngeremlengui_ngerutchei",
+    "level": 2,
+    "level_name": {
+      "local": "Hamlet",
+      "en": "Hamlet"
+    },
+    "name": {
+      "local": "Ngerutchei",
+      "en": "Ngerutchei",
+      "slug": "ngerutchei"
+    },
+    "code": {
+      "id": "PW_ngeremlengui_ngerutchei",
+      "iso": null
+    },
+    "parent": {
+      "id": "PW_ngeremlengui",
+      "level": 1,
+      "name": {
+        "local": "Ngeremlengui",
+        "en": "Ngeremlengui",
+        "slug": "ngeremlengui"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PW_ngeremlengui",
+        "level": 1,
+        "name": {
+          "local": "Ngeremlengui",
+          "en": "Ngeremlengui",
+          "slug": "ngeremlengui"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.526",
+      "lon": "134.559"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

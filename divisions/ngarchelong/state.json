@@ -1,0 +1,33 @@
+{
+  "id": "PW_ngarchelong",
+  "level": 1,
+  "level_name": {
+    "local": "State",
+    "en": "State"
+  },
+  "name": {
+    "local": "Ngarchelong",
+    "en": "Ngarchelong",
+    "slug": "ngarchelong"
+  },
+  "code": {
+    "id": "PW_ngarchelong",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "hamlet": 8
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "7.708",
+    "lon": "134.627"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/pw/states/ngarchelong/",
+    "api": "https://openadmindata.org/api/pw/"
+  }
+}
