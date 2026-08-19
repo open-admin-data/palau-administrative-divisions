@@ -3,7 +3,7 @@
 > 3 hamlets
 > Code: PW_ngardmau
 > Coordinates: 7.591, 134.568
-> Last updated: 2026-06-09. License: CC-BY-4.0.
+> Last updated: 2026-08-19. License: CC-BY-4.0.
 
 ## Hamlets
 

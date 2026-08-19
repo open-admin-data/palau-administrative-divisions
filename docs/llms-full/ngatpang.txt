@@ -3,7 +3,7 @@
 > 0 hamlets
 > Code: PW_ngatpang
 > Coordinates: 7.459, 134.521
-> Last updated: 2026-06-09. License: CC-BY-4.0.
+> Last updated: 2026-08-19. License: CC-BY-4.0.
 
 ## Hamlets
 
