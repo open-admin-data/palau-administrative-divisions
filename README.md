@@ -11,9 +11,10 @@
 | Coordinates | ✅ Included (all levels) |
 | Formats | JSON, NDJSON, CSV |
 | License | CC-BY-4.0 |
-| Last Updated | 2026-08-19 |
+| Last Updated | 2026-08-20 |
 | Website | [openadmindata.org/pw](https://openadmindata.org/pw/) |
 | API | [openadmindata.org/api/pw](https://openadmindata.org/api/pw/) |
+| Flag | [PNG](https://onlygames.me/flags-png/pw/) · [SVG](https://onlygames.me/flags-svg/pw/) · [PDF](https://onlygames.me/flags-pdf/pw/) |
 | National Anthem | [🎵 Listen & Download Palau National Anthem MP3](https://onlygames.me/national-anthems/pw/) |
 
 ## Browse by State

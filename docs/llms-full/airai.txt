@@ -3,7 +3,7 @@
 > 6 hamlets
 > Code: PW_airai
 > Coordinates: 7.374, 134.549
-> Last updated: 2026-08-19. License: CC-BY-4.0.
+> Last updated: 2026-08-20. License: CC-BY-4.0.
 
 ## Hamlets
 
