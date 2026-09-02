@@ -3,7 +3,7 @@
 > 4 hamlets
 > Code: PW_ngchesar
 > Coordinates: 7.458, 134.588
-> Last updated: 2026-08-20. License: CC-BY-4.0.
+> Last updated: 2026-09-02. License: CC-BY-4.0.
 
 ## Hamlets
 
